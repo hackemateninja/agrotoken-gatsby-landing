@@ -1,0 +1,597 @@
+{
+	"wp": "Can we help you with something?",
+	"title1": "The first global ",
+	"title2": " infrastructure for agrocommodities.",
+	"fullTitle": "Agrotoken - The first global infrastructure for agrocommodities.",
+	"token": "tokenization",
+	"whatAgrotoken": "What is Agrotoken?",
+	"tokenDefinition": "Tokenization refers to the process of converting real assets into digital assets and thus converting the property rights of a particular asset into a digital token. At Agrotoken, we transform biological assets, such as grains, into financial assets.",
+	"description": "We create a secure and frictionless ecosystem to make trading grains easier, more efficient and more reliable.",
+	"signup": "Register",
+	"signupUrl": "https://platform.agrotoken.io/sign-up",
+	"termsAndCondsUrl": "/en/terms-conditions",
+	"termsAndCondsVisaUrl": "/en/terms-conditions-visa",
+	"login": "Log in",
+	"loginUrl": "https://platform.agrotoken.io",
+	"helpCenterUrl": "https://help.agrotoken.io/en/index.html",
+	"privacyUrl": "/es/privacy-policy",
+	"cookiesUrl": "/es/cookies-policy",
+	"whitePaperUrl": "/Agrotoken_Whitepaper_EN.pdf",
+	"videoId": "zqO-NZiixVU",
+	"affiliated": "Affiliated businesses",
+	"affiliatedTitle": "These businesses already accept agrotokens",
+	"affiliatedPDF": "https://agrotoken.io/red-de-intercambio-agrotoken.pdf",
+	"affiliatedCat": {
+		"1": "Supplies",
+		"2": "Fuels",
+		"3": "Vehicles",
+		"4": "Machinery",
+		"5": "Agronomies",
+		"6": "Equipments",
+		"7": "Nutrition",
+		"8": "Dealers",
+		"9": "Others"
+	},
+	"links": {
+		"home": { "url": "/en", "text": "Home" },
+		"prod": "Products",
+		"prod1": { "url": "/en/tarjeta-agrotoken", "text":"Agrotoken Card", "desc": "I ordered the new Agrotoken Visa card and become #AgriCOOLtor"},
+		"prod2": { "url": "/en/comercios-adheridos", "text":"Partner Merchants", "desc": "These merchants already accept agrotokens."},
+		"we-do": { "url": "/en#we-do", "text": "What is Agrotoken?" },
+		"use-cases": { "url": "/en#use-cases", "text": "Use cases" },
+		"be-part": { "url": "/en#be-part", "text": "Be part" },
+		"affiliated": { "url": "/en/comercios-adheridos", "text": "Businesses" },
+		"developer": { "url": "/", "text": "Developers" },
+		"whitepaper": {
+			"url": "https://agrotoken.io/whitepaper_en.pdf",
+			"text": "Whitepaper"
+		},
+		"help": {
+			"url": "https://help.agrotoken.io/en/index.html",
+			"text": "Help center"
+		}
+	},
+	"signUp": {
+		"title": "Sign up at Agrotoken",
+		"description": "Register to tokenize your production, accept Agrotokens in exchange for your products and services and start trading on our platform.",
+		"buttonText": "Start with Agrotoken"
+	},
+	"press": "Agrotoken in the news:",
+	"feature1": {
+		"heading": "We transform grains into a digital asset, to store or exchange for inputs, services and other assets.",
+		"subheading": "Agrotokens, allow commercial and financial transactions with the direct backing of the grains."
+	},
+	"features": {
+		"title1": "More flexible",
+		"description1": "When you want, where you want and for the amount you want.",
+		"title2": "More efficient",
+		"description2": "Easy, fast and 100% digital.",
+		"title3": "More secure",
+		"description3": "With blockchain technology, transparent and decentralized."
+	},
+	"agrotokens": {
+		"heading": "Agrotokens are tradable digital assets backed by grain.",
+		"subheading": "Their value is linked to the price of the grain.",
+		"conversion": "1 Agrotoken = 1 ton of grain."
+	},
+	"rates": {
+		"title": "Agrotoken Quote",
+		"indexes": "Indexes by MATBA/ROFEX",
+		"soya": "Agrotoken SOYA: USD {value}",
+		"cora": "Agrotoken CORA: USD {value}",
+		"whea": "Agrotoken WHEA: USD {value}",
+		"soyasimple": "SOYA: USD {value}",
+		"corasimple": "CORA: USD {value}",
+		"wheasimple": "WHEA: USD {value}",
+		"soyaEmpty": "SOYA",
+		"coraEmpty": "CORA",
+		"wheaEmpty": "WHEA"
+	},
+	"use": {
+		"first": {
+			"heading": "Using your Agrotokens opens up a world of possibilities and benefits.",
+			"subheading": "It's simple, you tokenize your grains 100% online, you receive the Agrotokens in your wallet and you can start using them from your cell phone or computer.",
+			"list": {
+				"1": "Exchange them for seeds, vehicles, machinery, fuel, services and much more.",
+				"2": "Use them as collateral for loans.",
+				"3": "Get a pre-funded card with your Agrotokens"
+			}
+		},
+		"second": {
+			"heading": "Accept them in exchange for your products and services",
+			"subheading": "Just create your Agrotoken account to operate with payment links and sell more, in a more efficient way.",
+			"list": {
+				"1": "You receive the money immediately in your wallet, without delays.",
+				"2": "You have less risk of fraud or insolvency.",
+				"3": "You can keep the Agrotokens that accompany the value of the grains."
+			}
+		},
+		"third": {
+			"heading": "Welcome to a democratic and efficient infrastructure.",
+			"subheading": "We are building a new ecosystem that allows you to do business with agrocommodities, simply, securely and with lower costs.",
+			"list": {
+				"1": "New stable coins collateralized with more grains in more countries.",
+				"2": "More functionalities to support transactions and financing.",
+				"3": "Opening to exchanges and exchange for more digital assets.",
+				"4": "More transparency in prices."
+			}
+		}
+	},
+	"blockchain": {
+		"heading": "Utilizing the full potential and security of blockchain.",
+		"subheading": "Agrotoken is a multichain infrastructure that uses the technology of several networks for the most optimal use cases of each one.",
+		"title1": "Transparent",
+		"description1": "All transactions are recorded on blockchain",
+		"title2": "Decentralized",
+		"description2": "There is no intermediation in transactions which reduces friction and costs.",
+		"title3": "Safe",
+		"description3": "Being encrypted and decentralized it cannot be altered and it is very difficult to hack",
+		"built": "Agrotoken is built on the following networks:",
+		"find1": "Find our ",
+		"find2": " contracts at",
+		"findConjuntion": " and "
+	},
+	"bepart": {
+		"heading": "Want to be part of the ecosystem?",
+		"subheading": "We bring together technology, finance, cryptoeconomics and agribusiness, so that everyone can take advantage of the opportunities of a simpler and more efficient world.",
+		"farmers": {
+			"title": "Farmers",
+			"subtitle": "Convert your stored grains into digital assets (Agrotokens), to exchange them for inputs, services and much more, easily, securely and instantly.",
+			"url": "/en/register"
+		},
+		"merchants": {
+			"title": "Merchants",
+			"subtitle": "Accept Agrotokens in exchange for your products or services and increase your sales.",
+			"url": "/en/register"
+		},
+		"storage": {
+			"title": "Storage",
+			"subtitle": "Learn how to validate tokenization and participate in an infrastructure of solutions that allow you to do more and better business with farmers."
+		},
+		"investors": {
+			"title": "Investors",
+			"subtitle": "If you already operate with cryptoassets or you are interested in agribusiness opportunities, very soon you will be able to acquire agrotokens in the main exchanges."
+		},
+		"register": "Register",
+		"learnmore": "Read more",
+		"contactUs": "Contact us"
+	},
+	"newsletter": {
+		"heading": "Do you want to know our news?",
+		"subheading": "Leave us your e-mail and receive the latest solutions and benefits.",
+		"placeholder": "Enter your email",
+		"button": "Subscribe",
+		"loading": "Loading...",
+		"done": "Done!"
+	},
+	"banner": {
+		"heading": "We are the infrastructure that allows you to do more and better business with grains and food, creating a simpler, more efficient and technological ecosystem.",
+		"subheading": "We are the new dimension of agribusiness.",
+		"button": "Register",
+		"url": "/en/get-in-touch"
+	},
+	"footer": {
+		"heading": "The new dimension of agribusiness",
+		"copyright": "© 2021 Agrotoken By Universal Demeter Limited. All rights reserved.",
+		"menu": {
+			"title": "Menu",
+			"home": "Home",
+			"wedo": "What is Agrotoken?",
+			"usecases": "Use cases",
+			"bepart": "Be part"
+		},
+		"agrotoken": {
+			"title": "Agrotoken",
+			"whitepaper": "Whitepaper",
+			"help": "Help Center",
+			"access": "Access to the Platform",
+			"register": "Register"
+		},
+		"institucional": {
+			"title": "Institutional",
+			"terms": { "text": "Terms and conditions", "url": "/terms-conditions" },
+			"termsVisa": { "text": "Terms and conditions Visa", "url": "/terms-conditions-visa" },
+			"privacy": "Privacy policy",
+			"cookies": "Cookies Policy",
+			"contact": { "text": "Contact", "url": "/en/get-in-touch" },
+			"press": "Press Contact",
+			"bases": "Bases and Conditions - Promotions"
+		},
+		"social": {
+			"title": "Follow us",
+			"twitter": "Twitter",
+			"linkedIn": "LinkedIn",
+			"instagram": "Instagram"
+		},
+		"socialLinks": {
+			"twitter": "https://twitter.com/agrotoken",
+			"instagram": "https://www.instagram.com/agrotoken",
+			"linkedIn": "https://www.linkedin.com/company/agrotoken",
+			"mailTo": "mailto:press@agrotoken.io",
+			"conditions": "https://agrotoken.io/bases-y-condiciones-de-las-promociones.pdf"
+		}
+	},
+	"farmersSignUp": {
+		"heading": "Crear una cuenta",
+		"text1": "Completá este formulario para ser parte de una nueva dimensión de los agronegocios.",
+		"text2": "Verificaremos los datos que ingresaste y te enviaremos un mail cuando tu cuenta quede activa.",
+		"name": "Nombre",
+		"name.placeholder": "Ingresá tu nombre",
+		"email": "Email",
+		"email.placeholder": "Ingresá tu mail",
+		"company": "Razón Social",
+		"company.placeholder": "Ingresá tu razón social",
+		"cuitNumber": "CUIT",
+		"cuitNumber.placeholder": "Ingresá tu CUIT",
+		"password": "Contraseña",
+		"password.placeholder": "Elegí una contraseña",
+		"tip": "Al menos de 8 caracteres",
+		"submit": "Crear cuenta",
+		"error": {
+			"email": "Este campo tiene que ser un mail",
+			"name": "Este campo solo contiene letras",
+			"empty": "Este campo no puede estar vacio",
+			"company": "Excedió el número máximo de caracteres",
+			"message": "Excedió el número máximo de caracteres",
+			"password": "Debe contener entre 8 y 50 caracteres",
+			"cuit": "Este campo solo contiene números"
+		},
+		"success": "¡Te registraste con éxito!",
+		"backToHome": { "text": "Volver a la página de inicio", "url": "/" }
+	},
+	"merchantsBenefits": {
+		"title": "Accepting Agrotokens as means of payment",
+		"1": "immediate liquidity",
+		"2": "Simplicity to collect",
+		"3": "Fewer middlemen",
+		"4": "Availability to operate 24/7"
+	},
+	"contactMerchants": {
+		"form": {
+			"heading": "Do you want to be part of our exchange network?",
+			"text1": "Leave your information and we will contact you"
+		}
+	},
+	"contact": {
+		"subtitle": "Now trading grain is easier, more efficient and more reliable.",
+		"heading": "Digitize your soy, corn or wheat production, and use your Agrotokens to exchange them for supplies, services and much more.",
+		"text1": "It is very easy, you tokenize your beans 100% online, you receive the Agrotokens in your wallet and you can start using them from your cell phone or computer.",
+		"text2": "And if you sell any type of products or services, you can accept Agrotokens and add more sales with an agile, efficient and secure system.",
+		"formTitle": "Do you want to know more? Leave us your information so that we can contact you.",
+		"name": "Full name",
+		"email": "Email",
+		"phone": "Phone number",
+		"company": "Company (Optional)",
+		"message": "Message (Optional)",
+		"name.placeholder": "Insert you full name",
+		"email.placeholder": "Insert your email",
+		"phone.placeholder": "Insert your phone number",
+		"company.placeholder": "Insert your company",
+		"role.placeholder": "Select your role",
+		"message.placeholder": "Leave a message",
+		"submit": "Send",
+		"role": {
+			"label": "I am",
+			"producer": "Farmer",
+			"merchant": "Merchant",
+			"investor": "Investor",
+			"other": "Other"
+		},
+		"form": {
+			"subtitle": "Speak with us",
+			"heading": "Contact Form",
+			"text1": "Leave your details so we can help you with whatever you need, or simply tell you more about this new dimension of agribusiness."
+		},
+		"error": {
+			"phone": "You can only enter numbers",
+			"email": "This field must be an email",
+			"name": "This field only contains letters",
+			"empty": "This field can not be empty",
+			"company": "Exceeded maximum number of characters",
+			"message": "Exceeded maximum number of characters"
+		}
+	},
+	"locale": "en-US",
+	"getInTouchSuccess": {
+		"heading": "Thank you for your interest in Agrotoken!",
+		"text1": "We will contact you to advise you on this new dimension of agribusiness.",
+		"backToHome": { "text": "Back to home", "url": "/en" }
+	},
+	"pages": {
+		"404": {
+			"error-code": "404 error",
+			"title": "We have troubles finding this page...",
+			"description": "Sorry,  the page you're trying to reach out doesn't exist or is broken. We're working to fix it."
+		}
+	},
+	"buttons": {
+		"goBack": "Go back",
+		"goHome": "Go home"
+	},
+	"developer": {
+		"new": "New",
+		"soon": "Soon",
+		"title": "Do you want to develop using Agrotoken’s Infrastructure?",
+		"desc": "You can sign up to the Developer Tools Beta to start building the future of Hybrid Finance (HyFi, DeFi,CeFi)",
+		"opt1": "Sign up to Agrotoken’s API Beta",
+		"opt2": "Get started in our Sandbox",
+		"opt3": "Get an API Key",
+		"f1Title": "Payments",
+		"f1Desc": "Allow your users pay with agrotokens",
+		"f2Title": "Price",
+		"f2Desc": "Consume our prices 24/7",
+		"f3Title": "Swap",
+		"f3Desc": "Exchange agrotokens for FIAT or any crypto asset",
+		"f4Title": "Loans",
+		"f4Desc": "Create loan products using agrotokens as collateral",
+		"f5Title": "Payouts",
+		"f5Desc": "Create automated payouts in agrotokens",
+		"f6Title": "Accounts & Wallets",
+		"f6Desc": "Create and host digital wallets",
+		"f7Title": "Tokenization",
+		"f7Desc": "Mint & burn de agrotokens",
+		"modalTitle": "Sign up to Agrotoken’s API Beta first release",
+		"beta": "We will send you an email when the beta is open.",
+		"nameLabel": "What’s your name?",
+		"namePlaceholder": "Name",
+		"emailLabel": "What’s your email?",
+		"emailPlaceholder": "E-mail",
+		"apiLabel": "What do you want to build with our API?",
+		"apiPlaceholder": "Specify what type of products",
+		"companyLabel": "Which company do you work for? (optional)",
+		"companyPlaceholder": "Company",
+		"signUp": "Sign Up",
+		"later": "Maybe Later",
+		"thanks": "Thank you!",
+		"thanksMessage": "As soon as we release the first version of our APIs we will send you an email to start using them.",
+		"und": "Understood"
+	},
+	"teaser": {
+		"title": "Your grains on your card, your card everywhere.",
+		"subTitle": "You will be able to buy whatever you want with your beans, from a tractor to a coffee",
+		"soon": "Soon you will learn about the Agrotoken card.",
+		"soonDesc": "A Visa card, funded with your agrotokens. The most practical way to carry your grains around the world.",
+		"easeTitle": "It's easy",
+		"easeDesc": "Use your tokenized production directly from your card.",
+		"whenTitle": "When and where you want",
+		"whenDesc": "Shop at over 80 million merchants worldwide.",
+		"secureTitle": "It is secure",
+		"secureDesc": "Control all your expenses and those of your collaborators.",
+		"waitTitle": "What are you waiting for?",
+		"waitDesc": "There is little time left before you change the way you shop.",
+		"button": "I love her!",
+		"placeholder": "juan@mail.com",
+		"apple": "Download the app from the Apple Store soon",
+		"android": "Download the app on the Play Store soon",
+		"bannerTitle": "Pay with your grains and with good vibes with the Agrotoken card!",
+		"bannerText": "Click and become an #AgriCOOLtor now.",
+		"bannerArrow": "Find out how",
+		"modalDesc": "Order now and have your production on your card before anyone else.",
+		"telPlaceholder": "Enter your phone number",
+		"telLabel": "Phone",
+		"acoPlaceholder": "AcoPlaceholder",
+		"acoLabel": "Which collection do you work with?",
+		"namePlaceholder": "Enter your first and last name",
+		"nameLabel": "First Name and Last Name",
+		"rolLabel": "What is your role in agriculture?",
+		"buttonText": "Next",
+		"thanks": "Thank you very much for signing up!",
+		"thanksMessage": "You will be the first to find out all the news about the card that will change the way you buy.",
+		"und": "Back to start"
+	},
+	"visa": {
+		"title": "Order the new Agrotoken Visa card and become an ",
+		"titleF": "Agri",
+		"titleSpan": "COOL",
+		"titleS": "tor",
+		"subTitle": "Buy whatever you want with your beans, from a tractor to a coffee.",
+		"buttonGreen": "I want my card!",
+		"buttonWhite": "I want to know more",
+		"companies": "To the coolness of this card, add that of having these allies",
+		"why": "Why Visa Agrotoken?",
+		"whyTitle": "The safest and most practical way to transport your beans around the world.",
+		"whyDesc": "A Visa card, funded with your agrotokens.",
+		"card1Title": "It's easy",
+		"card1Desc": "Use your tokenized production directly from your card.",
+		"card2Title": "When and where you want",
+		"card2Desc": "Shop at more than 80 million merchants worldwide.",
+		"card3Title": "It's safe",
+		"card3Desc": "Control all your expenses and those of your collaborators.",
+		"card4Title": "A limit that does not limit you.",
+		"card4Desc": "50 thousand dollars limit to buy anything from a tractor to a coffee.",
+		"whyFoot": "A Visa card, funded with your agrotokens. The most practical way to carry your grains around the world.",
+		"whyFootWant": "I want my card!",
+		"features": "Features",
+		"featuresTitle": "How do I get my card?",
+		"featuresTitle2": "Get your Agrotoken VISA in 3 simple steps.",
+		"featuresDesc": "Now you can leave your tokens as collateral to request a loan.",
+		"step1": "Step 1",
+		"step1Title": "Sign up for Agrotoken",
+		"step1Desc": "Become #Agricooltor in one touch",
+		"step1Button": "Start registration",
+		"step2": "Step 2",
+		"step2Title": "Download the App",
+		"step2Desc": "Go up to pay with wave.",
+		"step3": "Step 3",
+		"step3Title": "Enable your virtual card",
+		"step3Desc": "Pay for all your grain purchases using Agrotokens!",
+		"productTitle": "Being #AgriCOOLtor is also mastering the field of technology.",
+		"productDesc": "An Agrotoken VISA card, wallet and app",
+		"boxTitleF": "Pay with your grains. Become a #Agri",
+		"boxTitleSpan": "COOL",
+		"boxTitleS": "tor",
+		"boxDesc": "There is little left for you to change the way you shop.",
+		"boxButton": "I want to know more",
+		"askTitle": "Frequently Asked Questions",
+		"askDesc": "Everything you need to know about the Agrotoken card.",
+		"ask1Title": "What type of card is it?",
+		"ask1Desc": "It is a pre-funded card with your digitized grains (Agrotokens SOYA, CORA or WHEA) that allows you to pay at any of the 80 million merchants affiliated with Visa around the world. Soon we will continue to co-create new ones together with VISA innovative uses and formats so that you can continue using your agrotokens anytime, anywhere and at any time.",
+		"ask2Title": "Who can request the card?",
+		"ask2Desc": "The card can be requested by producers of soybeans, corn or wheat in Argentina, who have tokenized their grains in one of our storage facilities and/or participating exporters.",
+		"ask3Title": "How does the card work?",
+		"ask3Desc": "The owner of the card will be able to make purchases normally 24 hours a day, 7 days a week and at any of the 80 million merchants that accept VISA in the world. {br} {br} The conversion of agrotoken to Argentine peso by consumptions made with the card will be fixed:",
+		"askItem1": "In the collection where the producer operates.",
+		"askItem2": "Weekly, on the day stipulated with the collection",
+		"askItem3": "With the agrotoken (SOYA, CORA, WHEA) that has been selected for each purchase.",
+		"askItem4": "To the Agrotoken price index published on MatbaRofex at the time of fixing.",
+		"contactTitle": "Your pimples on your card and your card everywhere.",
+		"contactSubTitle": "Order now and become an #AgriCOOLtor before anyone else",
+		"emailLabel": "What is your email like?",
+		"emailPlace": "Enter your email"
+	},
+	"privacyPolicy": {
+		"title": "Privacy Policy",
+		"intro": "This page contains the Privacy Policy regarding the website www.agrotoken.io onwards , the 'Website'), owned by Tech Demeter SA, CUIT 30716988550, with address at Migueletes 1231 2nd floor disc A (onwards , 'Tech Demeter'). From now on, the term 'User' will be used to refer to all human and / or legal persons who use the Website, whether or not they contract the services offered therein. All capitalized terms that do not have a specific definition will have the meaning assigned to them in the Terms and Conditions of the Website.",
+		"ourCommitment": {
+			"title": "1. OUR COMMITMENT TO PRIVACY",
+			"content": "Tech Demeter, its controlled, controlling and related companies respect the privacy of everyone who visits the Website. This Privacy Policy indicates the information that Tech Demeter may collect and the use it may make of that information. It also explains the security measures taken to protect your information, your ability to access your information, and who you can contact at Tech Demeter so that your questions regarding this Privacy Policy are answered."
+		},
+		"dataGathering": {
+			"title": "2. COLLECTION AND USE OF YOUR INFORMATION",
+			"content": {
+				"p1": "2.1. This Privacy Policy contemplates the collection and use of personal information on the Website.",
+				"p2": "2.2. Tech Demeter will not collect through the Website any information about the User that can identify him personally, such as, for example, name, address, telephone number or email address (onwards, the 'Personal Information'), unless the User provides it to us voluntarily. If the User does not want us to collect their Personal Information, they must refrain from providing it. However, you must bear in mind that if you do not provide us with your Personal Information, the User will not be able to access the Services and information available through the Website.",
+				"p3": "2.3. In the event that the User provides us with Personal Information, we inform you that this Personal Information will be subject to automated processing and incorporated into the Tech Demeter database.",
+				"p4": "2.4. Tech Demeter at no time will collect sensitive information about the User."
+			}
+		},
+		"personalInfo": {
+			"title": "3. PERSONAL INFORMATION",
+			"content": {
+				"p1": "3.1. Tech Demeter collects Personal Information online when, among other cases: (i) the User registers to use any of the Services available on the Website; (ii) the User uses the Website; (iii) the User sends us questions, queries or comments or contacts the Website; (iv) the User requests information or materials; and (v) the User provides information to the Website in any way (chats, forums, uploads, etc.).",
+				"p2": "3.2. The type of information collected may include name, type and document number, telephone, email address and / or any other information that allows the User to be individualized. In all cases that the User provides Personal Information, and in accordance with current legislation, the User declares that the Personal Information provided is correct, true and current.",
+				"p3": "3.3. In the cases that you provide us with your Personal Information, the User accepts and gives your free, express and informed consent for said Personal Information to be used for the purposes mentioned above and authorizes it to be processed, stored, collected on the bases of Tech Demeter proprietary data. In this sense, the User authorizes their Personal Information to be shared with Tech Demeter clients. Likewise, the User accepts and gives their free, express and informed consent with the terms of this Privacy Policy."
+			}
+		},
+		"email": {
+			"title": "4. EMAIL",
+			"content": {
+				"p1": "4.1. Tech Demeter may send the User emails in relation to the content of the Website, the services provided by Tech Demeter or about their Account and in response to their questions, orders, queries or comments. Tech Demeter may also send you emails with information about products and services offered by Tech Demeter and / or commercially associated third parties that may be of interest to you, unless the User expressly indicates that they do not wish to receive such emails through the processes implemented by Tech Demeter for this purpose.",
+				"p2": "4.2. The User may request at any time the withdrawal or blocking of their name from the database to which this Privacy Policy refers, following the procedure indicated in this same policy.",
+				"p3": "4.3 Any email that the User receives from Tech Demeter will inform them how to reject the sending of future promotional emails. Likewise, the User may change their preferences for receiving advertising emails through the configuration of their account on the Website itself at any time."
+			}
+		},
+		"cookies": {
+			"title": "5. OTHER INFORMATION - COOKIES",
+			"content": {
+				"p1": "5.1. When the User enters the Website, we can store some information on their computer in the form of a 'Cookie' or similar file that can be useful in several ways. With most Internet browsers, the User can delete Cookies from the hard drive of their computer, block all Cookies or receive an alert message before a Cookie is stored. Please refer to your browser instructions to learn more about these functions.",
+				"p2": "5.2. Additional information about Cookies and similar technologies can be obtained in the special section of the Website."
+			}
+		},
+		"sharing": {
+			"title": "6. SHARING YOUR INFORMATION",
+			"content": {
+				"p1": "6.1. The Personal Information that the User provides will be reputed and treated as confidential. Notwithstanding the foregoing, Tech Demeter may share all or part of the Personal Information provided by the User, including records of behavior and activity on the Website, contacts with third parties who advertise or offer products or services on the Website."
+			}
+		},
+		"protectingYourInfo": {
+			"title": "7. PROTECTING YOUR PERSONAL INFORMATION",
+			"content": {
+				"p1": "7.1. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of your Personal Information, Tech Demeter has put in place certain physical, electronic, administrative, and security procedures to safeguard and secure the Personal Information we collect online. . We safeguard Personal Information in accordance with established security standards and procedures and continually evaluate new technology to protect that information. Tech Demeter guarantees that the internal processes of the databases comply with the legal obligations of security and confidentiality imposed by the laws of each country regarding privacy and protection of personal data.",
+				"p2": "7.2. Despite the foregoing, the User acknowledges that the existing technical means that provide security are not impregnable and that even when all reasonable security precautions are adopted, it is possible to suffer manipulation, destruction and / or loss of information. If these cases arise, Tech Demeter will proceed in accordance with the laws of each country regarding privacy and data protection as required.",
+				"p3": "7.3. Tech Demeter employees are trained to understand and comply with these principles regarding personal data protection and information security. Likewise, Tech Demeter employees assume strict confidentiality commitments regarding the Personal Information they process in the exercise of their duties.",
+				"p4": "7.4. The User consents, acknowledges and accepts that their personal information is stored in the jurisdiction of Tech Demeter or that it may be transferred, stored and processed outside the Argentine Republic. Personal Information collected through the Website may only be transferred to our affiliates, associated entities and service providers in other countries for the purposes described above. These countries may not have the same data protection regulations as those that exist in Argentina. When we transfer your Personal Information to other countries, we will protect it in the manner described in this document and in accordance with the Personal Data Protection Law and its regulatory framework."
+			}
+		},
+		"ageRestrictions": {
+			"title": "8. MINORS",
+			"content": {
+				"p1": "8.1. Tech Demeter has no intention of collecting Personal Information from minors. Where appropriate, Tech Demeter will specifically instruct minors not to provide that Personal Information on our Website and / or will take reasonable steps to obtain the consent of the parents, guardian or legal representative for the delivery of that Personal Information.",
+				"p2": "8.2 The User is informed that in their capacity as parent, legal guardian or representative, they will be responsible for their minor children or under their guardianship accessing the Website, for which we strongly recommend taking the appropriate precautions while browsing the Website. To this end, we inform the User that some browsers allow configuration so that children cannot access certain pages."
+			}
+		},
+		"externalLinks": {
+			"title": "9. EXTERNAL LINKS",
+			"content": {
+				"p1": "9.1. The Website may contain links to and from other Internet sites. Tech Demeter is not responsible for the privacy practices or the processing of personal data on those sites. Tech Demeter recommends that you consult the privacy practices of such Internet sites before using them."
+			}
+		},
+		"userRights": {
+			"title": "10. USER RIGHTS",
+			"content": {
+				"p1": "10.1. If the User has provided Personal Information through the Services available on the Website, the User may access it, review, modify, delete and update their Personal Information at any time they wish.",
+				"p2": "10.2 If the User wishes to access their Personal Information or if such Personal Information is incorrect, outdated and / or deleted, they must send their request by email in accordance with the regulations implemented in their country as detailed in clause 12 with the subject 'Inform', 'Rectify', 'Delete' and / or 'Update' and / or any other as appropriate, together with the object of your request. Said request must contain at least the following information: (i) name and address of the User, in order to respond to their request within the terms established in the applicable law; (ii) copy of the identity document, passport or any other document of the User that proves his identity or proves the personality of his legal representative, and in case the request is made through the legal representative, accompany the document that proves his powers as a representative; (iii) clear and precise description of the personal data on which one seeks to exercise any of the aforementioned rights of access, rectification, opposition, cancellation or revocation, as well as the clear and precise description of your request; (iv) date and signature of the User or his legal representative; and (v) any other element or document that facilitates the location of said personal data.",
+				"p3": "10.3. Likewise, if the User subscribes to any of the services or communications offered by Tech Demeter, they may unsubscribe at any time by following the instructions included in each communication.",
+				"p4": "10.4. Tech Demeter will cooperate with the authorities of each country when they formally require any information related to our databases."
+			}
+		},
+		"policyUpdates": {
+			"title": "11. CHANGES TO THIS PRIVACY NOTICE",
+			"content": {
+				"p1": "11.1. Tech Demeter reserves the right to modify this Privacy Policy periodically, in which case the updated policy will be published on this same site, being the User's obligation to regularly review this section in order to be informed of any changes that may have occurred. In any case, Tech Demeter will send a communication to the registered email account in order to inform it about the change in the Privacy Policy."
+			}
+		},
+		"location": {
+			"title": "12. LOCATION FOR THE USER IN ARGENTINA",
+			"content": {
+				"p1": "12.1. Tech Demeter means Tech Demeter S.A., domiciled in [*], Autonomous City of Buenos Aires. The Website is www.agrotoken.io. This Privacy Policy is governed by the laws of the Argentine Republic.",
+				"p2": "12.2. The right of access to the data may be exercised free of charge by the User to the extent that the corresponding information is requested at intervals of not less than six months, unless a legitimate interest to that effect is proven.",
+				"p3": "12.3. The contact to exercise the rights of access, rectification, updating and deletion of Personal Information is: [*].",
+				"p4": "12.4. Personal Information collected through the Website may be transferred for the purposes described above to our subsidiaries, associated entities and service providers in other countries. These countries may not have the same data protection regulations as those that exist in Argentina. When we transfer User Personal Information to other countries, we will protect it in the manner described in this document.",
+				"p5": "12.5. In accordance with Law 25,326 and Provision 11/06 of the Agency for Access to Public Information (former National Directorate for the Protection of Personal Data) we have implemented safeguards that guarantee an adequate level of protection for Personal Information that is transferred outside of its borders.",
+				"p6": "12.6. It is made known that the Agency for Access to Public Information, Control Body of Law No. 25,326, has the power to deal with complaints and claims that are filed in relation to non-compliance with the rules on protection of personal data."
+			}
+		},
+		"contact": {
+			"title": "13. CONTACT",
+			"content": {
+				"p1": "If you have questions about your privacy when using the Website, please contact us at the following emails according to your country: [*]"
+			}
+		}
+	},
+	"cookiesPolicy": {
+		"title": "Use of Cookies and Similar Technologies",
+		"intro": "This page contains the use of cookies and similar technologies with respect to the website www.agrotoken.io (onwards , the 'Website'). The Website is owned by Tech Demeter S.A., CUIT 30716988550, with address at Migueletes 1231 2nd floor disc A (onwards , “Tech Demeter”). From now on, the term 'User' will be used to refer to all human and / or legal persons who use the Website, whether or not they contract the services offered therein.",
+		"content": "The User knows and accepts that Tech Demeter may use systems and / or monitoring services and / or similar technologies or that fulfill a similar function, such as those listed below in a non-exhaustive way: (i) Cookies: they are small files that are installed on the storage site of the computer or device used by the user and / or visitor of the Website, with a limited duration in time that help to personalize the services. In addition, Tech Demeter may offer certain functionalities that are only available through the use of cookies. Cookies are used in order to know the interests, behavior and demographics of those who visit or use the website and thus better understand their needs and interests and provide a better service or provide related information. Tech Demeter may also use the information obtained through cookies to analyze the pages browsed by the user and / or visitor to the Website, as well as their searches carried out, to improve and / or personalize commercial and promotional initiatives, make news, advertising o promotions, banners of interest and perfecting your content offer; You may also use cookies to count and corroborate the records and validation levels, as well as to promote and enforce the rules and security of the Website. Tech Demeter may also add cookies in your emails to measure the effectiveness of its promotions and advertising campaigns. It is established that the installation, permanence and existence of cookies on the computer or device of the user and / or visitor of the Website depends on his sole will and can be eliminated from his computer or device whenever he so wishes. To know how to remove cookies from the system, it is necessary to review your browser settings. (ii) Internet protocol address registry: Tech Demeter uses an internet protocol address registration system that allows knowing the location of the Website User to provide a better service and provide information related to it, as well as improve and / or personalize commercial and promotional initiatives, make news, advertising or promotions, banners of interest, perfecting its offer of content and articles and, on the other hand, to promote and enforce the rules and security of the Website. By accessing the Website, the User of the Website knows and accepts that said system is used. (iii) Single pixel: it is an electronic image (also called a transparent pixel) placed in the code of a web page with purposes similar to cookies. Additionally, a single pixel is used to measure traffic patterns from the Website User to another in order to maximize the flow of traffic through the website. The User knows and accepts that Tech Demeter may use a tracking system through the use of single pixels. (iv) Pointer tracking system: to analyze and improve the usability of the Website, Tech Demeter may also use systems or services for tracking the path of the mouse pointer as well as other systems and / or user tracking services on its site. . The User knows and accepts that Tech Demeter may use this mouse pointer tracking system as well as other similar tracking systems. All information requested and / or collected by these means of monitoring / tracking will be treated with strict confidentiality and may only be disclosed upon express request from a competent judicial entity."
+	},
+	"qatar": {
+		"banner": "I discovered how cool it is to pay with the Agrotoken card and be able to travel {br} to the FIFA World Cup Qatar 2022™, thanks to Visa",
+		"bannerButton" : "Learn more",
+		"titleF": "With Visa to be ",
+		"titleS": "tor {br} it's a flying move",
+		"desc": "I found out how cool it is to pay with your Agrotoken card and be able to travel to the FIFA World Cup Qatar 2022™, thanks to Visa.",
+		"button": "I want to participate!",
+		"fSpan": "What does the draw include?",
+		"fTitle": "Get ready to experience the FIFA World Cup Qatar 2022™ to the fullest!",
+		"fDesc": "The prize is for you and a companion.",
+		"fWhen": "When is the draw?",
+		"fWhenTitle": "The draw is October 12, 2022",
+		"fLink": "See bases and conditions",
+		"fItem1Title": "5 star hotel",
+		"fItem1Desc": "Enjoy 4 nights in one of the best hotels in Qatar",
+		"fItem2Title": "2 matches",
+		"fItem2Desc": "Includes 2 FIFA World Cup Qatar 2022™ matches for two people.",
+		"fItem3Title": "Flights and Transfers",
+		"fItem3Desc": "Thanks to VISA, you have included flights and transfers.",
+		"buttonProduct" : "Learn more",
+		"1secName": "How to participate and add chances?",
+		"1secTitle": "Register, request your card and add your first chance",
+		"1secItem1": "To participate in the draw for a trip to FIFA Qatar 2022™ you must be a producer and be enabled to tokenize.",
+		"1secItem2": "Once you have completed the registration, request your Visa Agrotoken card and that's it, you're already participating.",
+		"1secButton": "Sign up here",
+		"1secSBefore": "Already registered?",
+		"1secSLink": "Log in to your account",
+		"1secSAfter": "and request the card",
+		"2secName": "Tokenize and add 2 chances",
+		"2secTitle": "Tokenize soybeans, wheat or corn and add more chances to see the Scaloneta",
+		"2secDesc": "Any tokenization made between September 5 and October 11 adds 2 chances once.",
+		"2sec2Name": "Buy with your virtual card and add 5 chances",
+		"2sec2Title": "Any purchase with your virtual card brings you closer to Qatar!",
+		"2sec2Desc": "For every purchase you make until October 11 with your Visa Agrotoken card, you add 5 chances for the draw.",
+		"3secTitle": "Are you already an Agrotoken customer?",
+		"3secItem1": "To add your first chance, all you have to do is enter and request your Visa Agrotoken card.",
+		"3secItem2": "Also remember that if you tokenize between September 5 and October 11 you add 2 more chances!",
+		"3secButton": "Enter and request your card",
+		"modalTitle": "Thank you very much for signing up!",
+		"modalMessage": "We will be communicating with you shortly.",
+		"modalTitleInputs": "I want to participate",
+		"modalDescInputs": "To participate you have to be a producer of soybeans, corn or wheat.",
+		"modalDescInputsNoCui": "The promotion is valid only for producers. If you are not a producer, complete the following form and we will contact you.",
+		"cuitLabel": "Cuit Producer",
+		"cuitPlaceHolder": "445123123",
+		"sisa": "We will verify your Cuit in SISA",
+		"acopLabel": "Do you work with another collection?",
+		"acopPlaceHolder": "Enter the name",
+		"thanksMessage": "We will be communicating with you shortly."
+	}
+}

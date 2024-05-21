@@ -1,0 +1,812 @@
+{
+	"wp": "¿Te podemos ayudar en algo?",
+	"title1": "La primera infraestructura global de ",
+	"title2": " de agrocommodities.",
+	"fullTitle": "Agrotoken - La infraestructura global de tokenización de agrocommodities",
+	"token": "tokenización",
+	"whatAgrotoken": "¿Qué es Agrotoken?",
+	"tokenDefinition": "La tokenización de activos se refiere al proceso de convertir activos reales en activos digitales y, por lo tanto, convertir los derechos de propiedad de un activo particular en un token digital. En Agrotoken, transformamos activos biológicos, como los granos, en activos financieros.",
+	"description": "Creamos un ecosistema seguro y sin fricciones para que transaccionar con granos sea más fácil, eficiente y confiable.",
+	"signup": "Regístrate",
+	"signupUrl": "https://platform.agrotoken.io/sign-up",
+	"termsAndCondsUrl": "/es/terms-conditions",
+	"termsAndCondsVisaUrl": "/es/terms-conditions-visa",
+	"login": "Iniciar sesión",
+	"loginUrl": "https://platform.agrotoken.io",
+	"helpCenterUrl": "https://help.agrotoken.io/es/index.html",
+	"privacyUrl": "/es/privacy-policy",
+	"cookiesUrl": "/es/cookies-policy",
+	"whitePaperUrl": "/Agrotoken_Whitepaper_ES.pdf",
+	"videoId": "YcyhMAr5L8w",
+	"affiliated": "Comercios Adheridos",
+	"affiliatedTitle": "Estos comercios ya aceptan agrotokens",
+	"affiliatedPDF": "https://agrotoken.io/red-de-intercambio-agrotoken.pdf",
+	"affiliatedCat": {
+		"1": "Insumos",
+		"2": "Combustibles",
+		"3": "Vehículos",
+		"4": "Maquinarias",
+		"5": "Agronomías",
+		"6": "Equipamientos",
+		"7": "Nutrición",
+		"8": "Distribuidores",
+		"9": "Otros"
+	},
+	"links": {
+		"home": {
+			"url": "/es",
+			"text": "Inicio"
+		},
+		"prod": "Productos",
+		"prod1": {
+			"url": "/es/tarjeta-agrotoken",
+			"text": "Tarjeta Agrotoken",
+			"desc": "Pedí la nueva tarjeta Agrotoken Visa y volvete #AgriCOOLtor"
+		},
+		"prod2": {
+			"url": "/es/comercios-adheridos",
+			"text": "Comercios Adheridos",
+			"desc": "Estos comercios ya aceptan agrotokens."
+		},
+		"we-do": {
+			"url": "/es/#we-do",
+			"text": "¿Qué hacemos?"
+		},
+		"use-cases": {
+			"url": "/es/#use-cases",
+			"text": "Casos de uso"
+		},
+		"be-part": {
+			"url": "/es/#be-part",
+			"text": "Formá parte"
+		},
+		"affiliated": {
+			"url": "/es/comercios-adheridos",
+			"text": "Comercios"
+		},
+		"developer": {
+			"url": "/",
+			"text": "Developers"
+		},
+		"whitepaper": {
+			"url": "https://agrotoken.io/whitepaper_es.pdf",
+			"text": "Whitepaper"
+		},
+		"help": {
+			"url": "https://help.agrotoken.io/es/index.html",
+			"text": "Centro de ayuda"
+		}
+	},
+	"signUp": {
+		"title": "Registrate en Agrotoken",
+		"description": "Registrate para tokenizar tu producción, aceptar Agrotokens a cambio de tus productos y servicios y empezar a operar en nuestra plataforma.",
+		"buttonText": "Comienza con Agrotoken"
+	},
+	"press": "Agrotoken en las noticias:",
+	"feature1": {
+		"heading": "Transformamos granos en un activo digital, para guardar o intercambiar por insumos, servicios y otros activos.",
+		"subheading": "Los Agrotokens, permiten realizar transacciones comerciales y financieras con el respaldo directo de los granos."
+	},
+	"features": {
+		"title1": "Más flexible",
+		"description1": "Cuando quieras, donde quieras y por el monto que quieras.",
+		"title2": "Más eficiente",
+		"description2": "Fácil, rápido y 100% digital.",
+		"title3": "Más seguro",
+		"description3": "Con tecnología blockchain, transparente y descentralizada."
+	},
+	"agrotokens": {
+		"heading": "Los Agrotokens son activos digitales transaccionables respaldados con granos.",
+		"subheading": "Su valor está ligado al precio de los granos de soja (SOYA), maíz (CORA) y trigo (WHEA).",
+		"conversion": "1 Agrotoken = 1 tonelada de grano"
+	},
+	"rates": {
+		"title": "Cotización Agrotoken",
+		"indexes": "Índices por MATBA/ROFEX",
+		"soya": "Agrotoken SOYA: USD {value}",
+		"cora": "Agrotoken CORA: USD {value}",
+		"whea": "Agrotoken WHEA: USD {value}",
+		"soyasimple": "SOYA: USD {value}",
+		"corasimple": "CORA: USD {value}",
+		"wheasimple": "WHEA: USD {value}",
+		"soyaEmpty": "SOYA",
+		"coraEmpty": "CORA",
+		"wheaEmpty": "WHEA"
+	},
+	"use": {
+		"first": {
+			"heading": "Usar tus Agrotokens te abre un mundo de posibilidades y beneficios.",
+			"subheading": "Es simple, tokenizás tus granos 100% online, recibís los Agrotokens en tu billetera y ya podés empezar a usarlos desde tu celular o computadora.",
+			"list": {
+				"1": "Intercambialos por semillas, vehículos, maquinaria, combustible, servicios y mucho más.",
+				"2": "Usalos como garantía para pedir préstamos.",
+				"3": "Obtené una tarjeta prefondeada con tus Agrotokens"
+			}
+		},
+		"second": {
+			"heading": "Aceptalos a cambio de tus productos y servicios",
+			"subheading": "Solo tenés que crear tu cuenta Agrotoken para operar con links de pago y vender más, de una forma más eficiente.",
+			"list": {
+				"1": "Recibís el dinero en el acto en tu billetera, sin demoras.",
+				"2": "Tenés menos riesgo de fraude o insolvencia.",
+				"3": "Podés conservar los Agrotokens que acompañan el valor de los granos."
+			}
+		},
+		"third": {
+			"heading": "Bienvenidos a una infraestructura democrática y eficiente.",
+			"subheading": "Estamos construyendo un nuevo ecosistema que permite hacer negocios con agrocommodities, de forma simple, segura y con menores costos.",
+			"list": {
+				"1": "Nuevas stablecoins colaterizadas con más granos en más países.",
+				"2": "Más funcionalidades para el respaldo de transacciones y financiamiento.",
+				"3": "Apertura a exchanges e intercambio por más activos digitales.",
+				"4": "Más transparencia en los precios."
+			}
+		}
+	},
+	"blockchain": {
+		"heading": "Utilizando todo el potencial y la seguridad de blockchain",
+		"subheading": "Agrotoken es una infraestructura multichain que utiliza la tecnología de varias redes según los casos de uso más optimos de cada una.",
+		"title1": "Transparente",
+		"description1": "Todas las operaciones quedan registradas en blockchain",
+		"title2": "Descentralizada",
+		"description2": "No hay intermediación en las operaciones lo que reduce fricción y costos",
+		"title3": "Segura",
+		"description3": "Al estar encriptado y descentralizado no puede ser alterado y es muy difícil de hackear",
+		"built": "Agrotoken está construído sobre las siguientes redes:",
+		"find1": "Encontrá nuestros contratos de ",
+		"find2": " en",
+		"findConjuntion": " y "
+	},
+	"bepart": {
+		"heading": "¿Querés formar parte del ecosistema?",
+		"subheading": "Unimos la tecnología, las finanzas, la criptoeconomía y los agronegocios, para que todos puedan aprovechar las oportunidades de un mundo más simple y eficiente.",
+		"farmers": {
+			"title": "Productores",
+			"subtitle": "Convertí tus granos acopiados, en activos digitales (Agrotokens), para intercambiarlos por insumos, servicios y mucho más, de forma fácil, segura e instantánea.",
+			"url": "/es/register"
+		},
+		"merchants": {
+			"title": "Comercios",
+			"subtitle": "Aceptá Agrotokens a cambio de tus productos o servicios y aumentá tus ventas.",
+			"url": "/es/register"
+		},
+		"storage": {
+			"title": "Acopios",
+			"subtitle": "Conocé cómo validar la tokenización y participar de una infraestructura de soluciones que te permiten realizar más y mejores negocios con productores."
+		},
+		"investors": {
+			"title": "Inversores",
+			"subtitle": "Si ya operás con criptoactivos o te interesan las oportunidades del mundo de los agronegocios, muy pronto podrás adquirir agrotokens en los principales exchanges"
+		},
+		"register": "Regístrate",
+		"learnmore": "Leer mas",
+		"contactUs": "Contáctanos"
+	},
+	"newsletter": {
+		"heading": "¿Querés conocer nuestras novedades?",
+		"subheading": "Dejanos tu e-mail y recibí las últimas soluciones y beneficios.",
+		"placeholder": "Ingresá tu correo electrónico",
+		"button": "Suscribirme",
+		"loading": "Cargando...",
+		"done": "Listo!"
+	},
+	"banner": {
+		"heading": "Agrotoken permite hacer más y mejores negocios con agrocommodities, creando un ecosistema más simple, eficiente y tecnológico. ",
+		"subheading": "Somos la cripto revolución del campo",
+		"button": "Registrate",
+		"url": "/es/get-in-touch"
+	},
+	"footer": {
+		"heading": "La nueva dimensión de los agronegocios",
+		"copyright": "© 2021 Agrotoken By Universal Demeter Limited. All rights reserved.",
+		"menu": {
+			"title": "Menu",
+			"home": "Inicio",
+			"wedo": "¿Qué hacemos?",
+			"usecases": "Casos de uso",
+			"bepart": "Formá parte"
+		},
+		"agrotoken": {
+			"title": "Agrotoken",
+			"whitepaper": "Whitepaper",
+			"help": "Centro de Ayuda",
+			"access": "Acceso a la Plataforma",
+			"register": "Registro"
+		},
+		"institucional": {
+			"title": "Agrotoken",
+			"terms": {
+				"text": "Términos y condiciones",
+				"url": "/terms-conditions"
+			},
+			"termsVisa": {
+				"text": "Términos y condiciones Visa",
+				"url": "/terms-conditions-visa"
+			},
+			"privacy": "Política de privacidad",
+			"cookies": "Politicas de Cookies",
+			"contact": {
+				"text": "Contacto",
+				"url": "/get-in-touch"
+			},
+			"press": "Contacto de Prensa",
+			"bases": "Bases y Condiciones - Promociones"
+		},
+		"social": {
+			"title": "Síguenos",
+			"twitter": "Twitter",
+			"linkedIn": "LinkedIn",
+			"instagram": "Instagram"
+		},
+		"socialLinks": {
+			"twitter": "https://twitter.com/agrotoken",
+			"instagram": "https://www.instagram.com/agrotoken",
+			"linkedIn": "https://www.linkedin.com/company/agrotoken",
+			"mailTo": "mailto:press@agrotoken.io",
+			"conditions": "https://agrotoken.io/bases-y-condiciones-de-las-promociones.pdf"
+		}
+	},
+	"merchantsBenefits": {
+		"title": "Aceptando Agrotokens como medios de pago",
+		"1": "Liquidez inmediata",
+		"2": "Simplicidad para cobrar",
+		"3": "Menos intermediarios",
+		"4": "Disponibilidad para operar 24/7"
+	},
+	"contactMerchants": {
+		"form": {
+			"heading": "¿Querés formar parte de nuestra red de intercambio?",
+			"text1": "Deja tus datos y te contactamos"
+		}
+	},
+	"contact": {
+		"subtitle": "Ahora transaccionar con granos es más fácil, eficiente y confiable.",
+		"heading": "Digitalizá tu producción de soja, maíz o trigo, y utilizá tus Agrotokens para intercambiarlos por insumos, servicios y mucho más.",
+		"text1": "Es muy fácil, tokenizás tus granos 100% online, recibís los Agrotokens en tu billetera y ya podés empezar a usarlos desde tu celular o computadora.",
+		"text2": "Y si vendés cualquier tipo de productos o servicios, podés aceptar Agrotokens y sumar más ventas con un sistema ágil, eficiente y seguro.",
+		"formTitle": "¿Querés saber más? Dejanos tus datos para que nos podamos contactar con vos.",
+		"name": "Nombre y Apellido",
+		"email": "Correo electrónico",
+		"phone": "Teléfono",
+		"company": "Empresa (Opcional)",
+		"message": "Mensaje (Opcional)",
+		"name.placeholder": "Ingresá tu nombre y apellido",
+		"email.placeholder": "Ingresá tu correo electrónico",
+		"phone.placeholder": "Ingresá tu teléfono",
+		"company.placeholder": "Ingresá tu empresa",
+		"role.placeholder": "Seleccioná cuál es tu rol",
+		"message.placeholder": "Dejanos un mensaje",
+		"submit": "Enviar",
+		"role": {
+			"label": "Soy",
+			"producer": "Productor",
+			"merchant": "Comerciante",
+			"investor": "Inversor",
+			"other": "Otro"
+		},
+		"form": {
+			"subtitle": "Hablá con nosotros",
+			"heading": "Formulario de contacto",
+			"text1": "Dejanos tus datos para que podamos ayudarte en lo que necesites, o simplemente contarte más sobre esta nueva dimensión de los agronegocios."
+		},
+		"error": {
+			"phone": "Sólo pueden ser números",
+			"email": "Este campo tiene que ser un mail",
+			"name": "Este campo solo contiene letras",
+			"empty": "Este campo no puede estar vacio",
+			"company": "Excedió el número máximo de caracteres",
+			"message": "Excedió el número máximo de caracteres"
+		}
+	},
+	"farmersSignUp": {
+		"heading": "Crear una cuenta",
+		"text1": "Completá este formulario para ser parte de una nueva dimensión de los agronegocios.",
+		"text2": "Verificaremos los datos que ingresaste y te enviaremos un mail cuando tu cuenta quede activa.",
+		"name": "Nombre",
+		"name.placeholder": "Ingresá tu nombre",
+		"email": "Email",
+		"email.placeholder": "Ingresá tu mail",
+		"company": "Razón Social",
+		"company.placeholder": "Ingresá tu razón social",
+		"cuitNumber": "CUIT",
+		"cuitNumber.placeholder": "Ingresá tu CUIT",
+		"password": "Contraseña",
+		"password.placeholder": "Elegí una contraseña",
+		"tip": "Al menos de 8 caracteres",
+		"submit": "Crear cuenta",
+		"error": {
+			"email": "Este campo tiene que ser un mail",
+			"name": "Este campo solo contiene letras",
+			"empty": "Este campo no puede estar vacio",
+			"company": "Excedió el número máximo de caracteres",
+			"message": "Excedió el número máximo de caracteres",
+			"password": "Debe contener entre 8 y 50 caracteres",
+			"cuit": "Este campo solo contiene números"
+		},
+		"success": "¡Te registraste con éxito!",
+		"backToHome": {
+			"text": "Volver a la página de inicio",
+			"url": "/"
+		}
+	},
+	"success": {
+		"title": "¡Gracias por interesarte en Agrotoken!",
+		"farmers": "Con nuestra plataforma vas a poder convertir tus granos acopiados, en activos digitales (Agrotokens), para intercambiarlos por insumos, servicios y mucho más, de forma fácil, segura e instantánea. Muy pronto, uno de nuestros ejecutivos se va a poner en contacto con vos para asesorarte. Conocé más en agrotoken.io",
+		"merchants": "Con nuestra plataforma vas a poder aceptar Agrotokens a cambio de tus productos o servicios, y aumentar tus ventas, con tecnología segura y transparente. Muy pronto un ejecutivo de nuestra Red de Comercios se va a poner en contacto con vos para asesorarte.",
+		"investors": "Si ya operás con criptoactivos o te interesan las oportunidades del mundo de los agronegocios, muy pronto podrás adquirir Agrotokens en los principales exchanges. Te vamos a mantener al tanto de las últimas novedades.",
+		"others": "Muy pronto nos vamos a contactar con vos para charlar sobre esta nueva dimensión de los agronegocios. Te invitamos a conocernos más ingresando en nuestra web agrotoken.io"
+	},
+	"locale": "es-ES",
+	"getInTouchSuccess": {
+		"heading": "¡Gracias por interesarte en Agrotoken!",
+		"text1": "Muy pronto nos vamos a contactar con vos para asesorarte sobre esta nueva dimensión de los agronegocios. ",
+		"backToHome": {
+			"text": "Volver al inicio",
+			"url": "/"
+		}
+	},
+	"pages": {
+		"404": {
+			"error-code": "error 404",
+			"title": "Tuvimos un problema con esta página...",
+			"description": "Disculpá, la página que estás buscando no existe o se rompió. Estamos trabajando para resolver este problema."
+		}
+	},
+	"buttons": {
+		"goBack": "Volver atrás",
+		"goHome": "Ir a la página principal"
+	},
+	"developer": {
+		"new": "Nuevo",
+		"soon": "Próximamente",
+		"title": "Querés desarrollar utilizando la infraestructura de Agrotoken?",
+		"desc": "Registrate para la beta de nuestras Developer Tools y comenzá a crear el futuro de las finanzas híbridas (HyFi, DeFi y CeFi)",
+		"opt1": "Registrate en nuestra Beta de Agrotoken API",
+		"opt2": "Comenzá a utilizar nuestro Sandbox",
+		"opt3": "Obtené tu API Key",
+		"f1Title": "Payments",
+		"f1Desc": "Dejá que tus usuarios paguen con agrotokens",
+		"f2Title": "Price",
+		"f2Desc": "Usa nuestros precios 24/7",
+		"f3Title": "Swap",
+		"f3Desc": "Intercambiá agrotokens por dinero FIAT u otros criptoactivos",
+		"f4Title": "Loans",
+		"f4Desc": "Creá productos de prestamos con agrotokens como garantia fácilmente",
+		"f5Title": "Payouts",
+		"f5Desc": "Creá pagos automatizados en agrotokens",
+		"f6Title": "Accounts & Wallets",
+		"f6Desc": "Creá cuentas y wallets digitales",
+		"f7Title": "Tokenization",
+		"f7Desc": "Mint & burn de agrotokens",
+		"modalTitle": "Regístrese en la primera versión Beta de la API de Agrotoken",
+		"beta": "Le enviaremos un correo electrónico cuando la versión beta esté abierta.",
+		"nameLabel": "¿Cuál es tu nombre?",
+		"namePlaceholder": "Nombre",
+		"emailLabel": "¿Cuál es tu correo electrónico?",
+		"emailPlaceholder": "Correo electrónico",
+		"apiLabel": "¿Qué quieres construir con nuestra API?",
+		"apiPlaceholder": "Especifique qué tipo de productos",
+		"companyLabel": "¿Para qué empresa trabajas? (opcional)",
+		"companyPlaceholder": "Empresa",
+		"signUp": "Inscribirse",
+		"later": "Quizas mas tarde",
+		"thanks": "!Gracias!",
+		"thanksMessage": "Tan pronto como lancemos la primera versión de nuestras API, le enviaremos un correo electrónico para que comience a usarlas.",
+		"und": "Entendido"
+	},
+	"teaser": {
+		"title": "Tus granos en tu tarjeta, tu tarjeta en todos lados.",
+		"subTitle": "Vas a poder comprar lo que quieras con tus granos, desde un tractor hasta un café",
+		"soon": "Próximamente vas a conocer la tarjeta Agrotoken.",
+		"soonDesc": "Una tarjeta Visa, fondeada con tus agrotokens. La forma más práctica de llevar tus granos en todo el mundo.",
+		"easeTitle": "Es fácil",
+		"easeDesc": "Usá tus producción tokenizada directo desde tu tarjeta.",
+		"whenTitle": "Cuándo y dónde quieras",
+		"whenDesc": "Comprá en más de 80 millones de comercios en todo el mundo.",
+		"secureTitle": "Es seguro",
+		"secureDesc": "Controlá todos tus gastos y los de tus colaboradores.",
+		"waitTitle": "¿Qué estás esperando?",
+		"waitDesc": "Queda poco para que cambie tu forma de comprar.",
+		"button": "!La quiero!",
+		"placeholder": "juan@mail.com",
+		"apple": "Descargá la app en Apple Store próximamente",
+		"android": "Descargá la app en el Play Store próximamente",
+		"bannerTitle": "¡Pagá con tus granos y con onda con la tarjeta de Agrotoken!",
+		"bannerText": "Hacé click y convertite en #Agricooltor ahora.",
+		"bannerArrow": "Enterate cómo",
+		"modalDesc": "Pedila ahora y tené antes que nadie tu producción en tu tarjeta.",
+		"telPlaceholder": "Ingresá tu teléfono",
+		"telLabel": "Teléfono",
+		"acoPlaceholder": "Acopio",
+		"acoLabel": "¿Con qué acopio trabajás?",
+		"namePlaceholder": "Ingresa tu nombre y apellido",
+		"nameLabel": "Nombre y Apellido",
+		"rolLabel": "¿Cuál es tu rol en el agro?",
+		"buttonText": "Siguiente",
+		"thanks": "¡Muchas gracias por anotarte!",
+		"thanksMessage": "Vas a ser el primero en enterarte todas las novedades de la tarjeta que va a cambiar tu forma de comprar.",
+		"und": "Volver al incio"
+	},
+	"visa": {
+		"title": "Pedí la nueva tarjeta Agrotoken Visa y volvete ",
+		"titleF": "Agri",
+		"titleSpan": "COOL",
+		"titleS": "tor",
+		"subTitle": "Compra lo que quieras con tus granos, desde un tractor hasta un café.",
+		"buttonGreen": "¡Quiero mi tarjeta!",
+		"buttonWhite": "Quiero saber más",
+		"companies": "A la onda que tiene esta tarjeta, sumale la de contar con estos aliados",
+		"why": "¿Porqué Visa Agrotoken?",
+		"whyTitle": "La forma más práctica y segura de llevar tus granos por todo el mundo.",
+		"whyDesc": "Una tarjeta Visa, fondeada con tus agrotokens.",
+		"card1Title": "Es fácil",
+		"card1Desc": "Usá tu producción tokenizada directo desde tu tarjeta.",
+		"card2Title": "Cuándo y dónde quieras",
+		"card2Desc": "Comprá en más de 80 millones de comercios en todo el mundo.",
+		"card3Title": "Es seguro",
+		"card3Desc": "Controlá todos tus gastos y los de tus colaboradores.",
+		"card4Title": "Un límite que no te limita.",
+		"card4Desc": "50 mil dólares de límite para comprar desde un tractor hasta un café.",
+		"whyFoot": "Una tarjeta Visa, fondeada con tus agrotokens. La forma más práctica de llevar tus granos en todo el mundo.",
+		"whyFootWant": "¡Quiero mi tarjeta!",
+		"features": "Features",
+		"featuresTitle": "¿Cómo hago para obtener mi tarjeta?",
+		"featuresTitle2": "Obtené tu VISA de Agrotoken en 3 simples pasos.",
+		"featuresDesc": "Ahora podés dejar tus tokens como garantía para solicitar un préstamo.",
+		"step1": "Paso 1",
+		"step1Title": "Registrate en Agrotoken",
+		"step1Desc": "Volvete #Agricooltor en un toque",
+		"step1Button": "Comenzá el registro",
+		"step2": "Paso 2",
+		"step2Title": "Bajate la App",
+		"step2Desc": "Subite a pagar con onda.",
+		"step3": "Paso 3",
+		"step3Title": "Habilitá tu tarjeta virtual",
+		"step3Desc": "Pagá todas tus compras con granos usando Agrotokens!",
+		"productTitle": "Ser #AgriCOOLtor es también dominar el campo de la tecnología.",
+		"productDesc": "Una aplicación, una billetera y una tarjeta VISA  de Agrotoken",
+		"boxTitleF": "Además de pagar, garpa. Volvete un #Agri",
+		"boxTitleSpan": "COOL",
+		"boxTitleS": "tor",
+		"boxDesc": "Queda poco para que cambie tu forma de comprar.",
+		"boxButton": "Quiero saber más",
+		"askTitle": "Preguntas frecuentes",
+		"askDesc": "Todo lo que necesitás saber de la tarjeta de Agrotoken.",
+		"ask1Title": "¿Qué tipo de tarjeta es?",
+		"ask1Desc": "Es una tarjeta prefondeada con tus granos digitalizados (Agrotokens SOYA, CORA o WHEA) que te permite pagar en cualquiera de los 80 millones de comercios adheridos a Visa en todo el mundo. Próximamente seguiremos co-creando junto con VISA nuevos usos y formatos innovadores para que sigas utilizando tus agrotokens en cualquier momento, lugar y a cualquier hora.",
+		"ask2Title": "¿Quiénes pueden solicitar la tarjeta?",
+		"ask2Desc": "La tarjeta la pueden solicitar productores de soja, maíz o trigo en Argentina, que hayan tokenizado sus granos en alguno de nuestros acopios y/o exportadores adheridos.",
+		"ask3Title": "¿Cómo funciona la tarjeta?",
+		"ask3Desc": "El propietario de la tarjeta podrá realizar compras normalmente las 24hs del día, los 7 días de la semana y en cualquiera de los 80 Millones de comercios que aceptan VISA en el mundo. {br} {br} La conversión de agrotoken a peso argentino por los consumos realizados con la tarjeta se fijarán:",
+		"askItem1": "En el acopio donde opere el productor.",
+		"askItem2": "De forma semanal, el día estipulado con el acopio",
+		"askItem3": "Con el agrotoken (SOYA, CORA, WHEA) que haya sido seleccionado para cada compra.",
+		"askItem4": "Al índice de precio Agrotoken publicado en MatbaRofex al momento de realizar la fijación.",
+		"contactTitle": "Tus granos en tu tarjeta y tu tarjeta en todos lados.",
+		"contactSubTitle": "Pedila ahora y transfórmate antes que nadie en un #AgriCOOLtor",
+		"emailLabel": "¿Cómo es tu e-mail?",
+		"emailPlace": "Ingresá tu e-mail"
+	},
+	"termsConditions": {
+		"agrotokenLink": "https://agrotoken.io",
+		"agrotokenBusinessName": "Tech Demeter S.A.",
+		"title": "Términos y Condiciones Generales",
+		"p1": "Esta página establece los términos y condiciones generales (en adelante, los “Términos y Condiciones”) para el uso de los contenidos y servicios (en adelante, los “Servicios”) que ofrece Tech Demeter S.A. y sus sociedades controlantes, controladas, vinculadas y sujetas a control común (en adelante, “Tech Demeter”) dentro del sitio web de su propiedad www.agrotoken.io (en adelante, el “Sitio Web”). El Sitio Web y los Servicios son prestados por Tech Demeter S.A., CUIT 30-71698855-0, en domicilio en Migueletes 1231, 2do piso, departamento A, Ciudad Autónoma de Buenos Aires.",
+		"p2": "Por favor, lea esta página atentamente y si no está de acuerdo con los Términos y Condiciones, abandone el Sitio Web y absténgase de utilizar los Servicios que se ofrecen. La utilización por el Usuario del Sitio Web se entenderá como aceptación plena y sin reservas de los Términos y Condiciones aquí establecidos. Los Términos y Condiciones tienen carácter obligatorio y vinculante para cualquier persona que desee acceder y/o hacer uso del Sitio Web y de los servicios allí ofrecidos.",
+		"p3": "En adelante, los términos “Usted” y “Usuario” serán utilizados para hacer referencia a todas las personas físicas y/o jurídicas que por cualquier razón accedan al Sitio Web. El término “Días Hábiles” se emplea aquí para referirse a los días hábiles administrativos y bancarios en la República Argentina.",
+		"p4": "Tech Demeter se reserva el derecho de revisar y/o modificar los Servicios, estos Términos y Condiciones y las normas que los complementan, en cualquier momento y cuantas veces lo crea conveniente, los que se entenderán notificados al Usuario con la sola publicación en el Sitio Web de la última versión actualizada, siendo de exclusiva responsabilidad del Usuario consultar y/o informarse periódicamente de los nuevos Términos y Condiciones.",
+		"t1": "1. ACCESO AL SITIO WEB",
+		"p1.1": "1.1. Todo Usuario que desee utilizar el Sitio Web debe registrarse completando el formulario de registro, con carácter de declaración jurada, en todos sus campos con datos válidos e información personal exacta, precisa y verdadera ('Datos Personales' y/o 'Información'). Una vez registrado, el Usuario asume el compromiso de actualizar los Datos Personales conforme resulte necesario. Tech Demeter no se responsabiliza por la certeza de los Datos Personales provistos por el Usuario. El Usuario garantiza y responde, en cualquier caso, de la veracidad, exactitud, integridad, vigencia y autenticidad de la Información ingresada. Tech Demeter se reserva el derecho de solicitar comprobantes y/o información adicional a efectos de corroborar la información entregada por un Usuario en materia de Datos Personales, así como de suspender temporal o definitivamente a aquel Usuario cuyos datos no hayan podido ser confirmados. Tech Demeter se reserva asimismo el derecho de rechazar una solicitud de registro o de cancelar o suspender, temporal o definitivamente una cuenta, sin necesidad de expresar causa alguna al Usuario. En caso de detectar incongruencias o inconsistencias en la información provista por un Usuario o en caso de detectar actividades sospechosas Tech Demeter automáticamente rechazará, cancelará o suspenderá la Cuenta (conforme este término se define en el punto 1.2 de estos Términos y Condiciones). En ambos casos, la decisión de Tech Demeter no generará para el Usuario derechos de indemnización o resarcimiento por ningún concepto. Se aclara que en todos los casos la Cuenta, cualquiera sea su clase, es personal, única e intransferible, y será asignada a un solo Usuario y está prohibida su venta, cesión o transferencia (incluyendo la reputación) bajo ningún título. El Usuario no podrá permitir ni autorizar el uso de su Cuenta por terceras personas.",
+		"p1.2": "1.2. El Usuario accederá a la cuenta personal originada por el registro del Usuario en el Sitio Web (en adelante, la “Cuenta”) mediante el ingreso de su nombre, dirección de correo electrónico y contraseña. El Usuario será responsable de mantener la confidencialidad de sus datos y de su contraseña. En el caso que el Usuario olvide o pierda su contraseña deberá gestionar a través del Sitio Web el cambio de contraseña y seguir los pasos allí indicados. El Usuario reconoce y acepta que el Sitio Web puede revelar a terceros, de forma anónima, algunos datos contenidos en su solicitud de registro. De todos modos, Tech Demeter no revelará a terceras partes el nombre o dirección de correo electrónico del Usuario sin su consentimiento previo, excepto en la medida en que sea necesario para el cumplimiento de las leyes o procedimientos legales vigentes, donde tal información sea relevante o sea estrictamente necesaria para la prestación de los servicios a través del Sitio Web. En tal caso, el receptor de los datos será responsablemente solidario frente a los daños y perjuicios que pudiera sufrir el Usuario por el traspaso de información. El Usuario será responsable por todas las operaciones efectuadas en su Cuenta, pues el acceso a la misma está restringido al ingreso y uso de su Contraseña, que será de su conocimiento exclusivo. El Usuario se compromete a notificar a Tech Demeter en forma inmediata y por medio idóneo, cualquier uso no autorizado de su Cuenta, así como el ingreso por parte de terceros no autorizados a la misma.",
+		"p1.3": "1.3. Toda la Información suministrada por el Usuario al registrarse en el Sitio Web y cualquier otro dato e información, se usará de acuerdo a lo mencionado en estos Términos y Condiciones que el Usuario declara conocer y aceptar.",
+		"p1.4": "1.4. Tech Demeter utilizará la Información para los siguientes fines: a) identificación y autenticación, b) administración y gestión comercial, c) mejora del servicio, d) fines estadísticos, e) envío de notificaciones, promociones o publicidad, entre otros.",
+		"p1.5": "1.5. El Usuario autoriza expresamente a Tech Demeter a compartir la información personal brindada al momento del registro y verificación de su Cuenta, (incluyendo dirección de e-mail) con instituciones financieras en caso de ser requeridas por procedimientos de prevención de lavado de activo, financiamiento de terrorismo y/o prevención de fraude y con los proveedores de servicios o las empresas afiliadas que contribuyan a dar servicio y/o mejorar o facilitar las operaciones a través de www.agrotoken.com en todas las jurisdicciones donde los Servicios se encuentren disponibles. Tech Demeter velará porque se cumplan ciertos estándares en la trasmisión de la información, mediante la firma de acuerdos o convenios cuyo objeto sea la privacidad y confidencialidad de los Datos Personales y/o Información de los Usuarios.",
+		"p1.6": "1.6. El Usuario reconoce y acepta que solo podrá acceder a las funcionalidades completas de tokenización y destokenización de activos digitales a emitirse bajo el Sitio Web y a la transacción y/o conversión con los mismos, si se ha registrado como Productor, Oráculo o Merchant (según estos términos se definen en los Términos y Condiciones Particulares de Tokenización y Transacción.",
+		"t2": "2. UTILIZACIÓN DEL SITIO WEB",
+		"p2.1": "2.1. El Usuario se compromete a utilizar el Sitio Web de conformidad con estos Términos y Condiciones, las leyes aplicables y con la moral y buenas costumbres.",
+		"p2.2": "2.2. El Usuario se obliga a abstenerse de utilizar el Sitio Web con fines o efectos ilícitos, contrarios a lo establecido en los Términos y Condiciones, lesivos de los derechos e intereses de terceros, o que de cualquier forma puedan dañar, inutilizar, sobrecargar o deteriorar el Sitio Web o impedir la normal utilización del Sitio Web por parte del Usuario.",
+		"p2.3": "2.3. El Sitio Web sólo podrá ser utilizado con fines lícitos, para acceder a información referida a los Servicios. Tech Demeter prohíbe específicamente cualquier utilización del Sitio Web para: (i) anunciar datos biográficos incompletos, falsos o inexactos; (ii) registrar más de una cuenta correspondiente a un mismo Usuario; (iii) usar cualquier mecanismo para impedir o intentar impedir el adecuado funcionamiento de este Sitio Web o cualquier actividad que se esté realizando en este Sitio Web; (iv) revelar o compartir su contraseña con terceras personas, o usar su contraseña para propósitos no autorizados; (v) usar o intentar usar cualquier máquina, software, herramienta, agente u otro mecanismo para navegar o buscar en este Sitio Web que sean distintos a las herramientas de búsqueda provistos por la Empresa en este Sitio Web; y (vi) intentar descifrar, descompilar u obtener el código fuente de cualquier programa de software de este Sitio Web.",
+		"p2.4": "2.4. El Usuario tiene prohibido utilizar el Sitio Web para transmitir, distribuir, almacenar o destruir material (i) violando la normativa vigente, (ii) de forma que se infrinjan derechos de terceros o se viole la confidencialidad, honor, privacidad, imagen u otros derechos personales de otras personas.",
+		"p2.5": "2.5. El Usuario tiene prohibido violar o intentar violar la seguridad del Sitio Web, incluyendo pero no limitándose a: (i) el acceso a datos que no estén destinados a tal usuario o entrar en un servidor o cuenta cuyo acceso no está autorizado al Usuario, (ii) evaluar o probar la vulnerabilidad de un sistema o red, o violar las medidas de seguridad o identificación sin la adecuada autorización, (iii) intentar impedir el Servicio a cualquier Usuario, anfitrión o red, incluyendo, pero sin limitación, mediante el envío de virus al Sitio Web, o mediante saturación o ataques de denegación de Servicio, (iv) enviar correos no pedidos, incluyendo promociones y/o publicidad de productos o servicios, o (v) falsificar cualquier cabecera de paquete TCP/IP o cualquier parte de la información de la cabecera de cualquier correo electrónico o en mensajes de foros de debate.",
+		"p2.6": "2.6. Las violaciones de la seguridad del sistema o de la red constituyen delitos penales y pueden derivar en responsabilidades civiles. Tech Demeter investigará los casos de violaciones a la seguridad del sistema, pudiendo dirigirse a la autoridad judicial o administrativa competente a los efectos de denunciar, querellar penalmente y/o demandar  al Usuario involucrado en tales violaciones.",
+		"p2.7": "2.7. Tech Demeter se reserva el derecho de suspender o dar de baja a cualquier Usuario que, a exclusivo criterio de Tech Demeter, no cumpla con los estándares definidos en estos Términos y Condiciones o con las políticas vigentes de Tech Demeter, sin que ello genere derecho a resarcimiento alguno.",
+		"t3": "3. CONTENIDO DEL SITIO WEB. PROPIEDAD INTELECTUAL",
+		"p3.1": "3.1. Los contenidos de este Sitio Web, tales como texto, información, gráficos, imágenes, logos, marcas, programas de computación, bases de datos, diseños, arquitectura funcional y cualquier otro material (en adelante, el “Contenido”) están protegidos por las leyes aplicables en cada jurisdicción incluyendo, pero sin limitación, las leyes sobre derechos de autor, patentes, marcas, modelos de utilidad, diseños industriales y nombres de dominio.",
+		"p3.2": "3.2. Todo el Contenido es propiedad de Tech Demeter y/o de cualquier otra sociedad vinculada y/o de sus proveedores de contenido. La compilación, interconexión, operatividad y disposición de los contenidos del Sitio Web es de propiedad exclusiva de Tech Demeter. El uso, adaptación, reproducción y/o comercialización no autorizada del Contenido puede encontrarse penado por la legislación vigente en cada jurisdicción.",
+		"p3.3": "3.3. El Usuario se compromete a no utilizar, bajo ninguna forma, las marcas, solicitudes de marcas, patentes, modelos de utilidad, modelos y diseños industriales, insignias, logotipos, isotipos, nombres comerciales, nombres sociales, enseñas, derechos de autor, nombres de dominio, “know how” y todos los demás derechos de propiedad intelectual e industrial (de cualquier tipo y naturaleza a nivel mundial independientemente de su designación) de Tech Demeter y/o cualquier sociedad controlante, controlada, afiliada y/o vinculada, sin previa autorización por escrito.",
+		"p3.4": "3.4. El Usuario reconoce el derecho, título e interés de Tech Demeter en las marcas registradas o no, insignias, logotipos, diseños, palabras o nombres no registrados que identifican y distinguen a Tech Demeter y acepta no participar en actividades o cometer acto alguno que, directa o indirectamente, pueda disputar o poner en riesgo dicho derecho, título o interés de Tech Demeter. Asimismo, el Usuario no deberá solicitar ni adquirir ante las autoridades competentes, bien como marca de producto, servicio, denominación, nombre de dominio, razón social o nombre comercial; marcas iguales, parecidas o confundibles a las marcas registradas u otros signos no registrados que identifiquen y distingan a Tech Demeter, ni reclamar derechos, títulos o intereses en o sobre las marcas de Tech Demeter.",
+		"p3.5": "3.5. El Usuario no copiará ni adaptará el código de programación desarrollado por o por cuenta de Tech Demeter para generar y operar sus páginas, el cual se encuentra protegido por la legislación aplicable y vigente en cada jurisdicción.",
+		"t4": "4. DATOS PERSONALES DEL USUARIO. REGISTRO EN EL SITIO WEB",
+		"p4.1": "4.1. Cuando se registre en el Sitio Web, se le pedirá que aporte a Tech Demeter cierta información que incluirá, entre otras, nombre y apellido, dirección y una dirección válida de correo electrónico (de corresponder), entre otros.",
+		"p4.2": "4.2. Tech Demeter se reserva el derecho de ofrecerle servicios y productos de terceros basados en las preferencias que Usted indicó al momento de registrarse o en cualquier momento posterior; tales ofertas pueden ser efectuadas por Tech Demeter o por terceros.",
+		"p4.3": "4.3. Por favor consulte la Política de Privacidad del Sitio Web para conocer los detalles respecto del tratamiento de sus Datos Personales.",
+		"p4.4": "4.4. El Usuario será responsable de todos los usos de su Cuenta, tanto si están autorizados o no por Usted. Usted deberá notificar inmediatamente a Tech Demeter sobre cualquier uso sin autorización de su Cuenta o contraseña.",
+		"p4.5": "4.5. El Usuario registrado y/o que utilice los Servicios garantiza la veracidad, exactitud, vigencia y autenticidad de la información facilitada, y se compromete a mantenerlos debidamente actualizados, informando a Tech Demeter sobre cualquier modificación a través de la sección “Contacto” disponible en la página principal del Sitio Web.",
+		"p4.6": "4.6. El Usuario autoriza a que la información personal suministrada sea compartida con los clientes de Tech Demeter.",
+		"t5": "5. CAPACIDAD",
+		"p5.1": "5.1. Los Servicios sólo están disponibles para personas que tengan capacidad legal para contratar y ser contratados o sean mayores de edad según la legislación aplicable (en Argentina esto significa tener al menos 18 años de edad). No podrán utilizar los Servicios las personas que no tengan dicha capacidad o el Usuario que haya sido suspendido temporalmente o inhabilitado definitivamente. Si se registrara en el Sitio Web un Usuario en carácter de persona jurídica, deberá tener capacidad para contratar a nombre de tal entidad y de obligar a la misma en los términos de estos Términos y Condiciones. Tech Demeter no tiene la obligación de verificar que el Usuario tenga derecho o capacidad para utilizar el Sitio Web..Asimismo, los Usuarios utilizarán los Servicios según su propio examen y análisis de los riesgos involucrados.",
+		"p5.2": "5.2. Al acceder al Sitio Web y utilizar los Servicios, el Usuario confirma que es mayor de edad y tiene capacidad legal para contratar.",
+		"t6": "6. INDEMNIDAD",
+		"p6.1": "6.1. El Usuario acepta defender, indemnizar y mantener indemnes a Tech Demeter, las sociedades vinculadas, sus directivos, empleados y representantes, de y contra cualquier cargo, incluyendo pero no limitándose a cualquier acción ya sea judicial y/o extrajudicial, que resulten del uso que el Usuario haga del Sitio Web, o bien de la infracción por su parte de estos Términos y Condiciones debiendo hacerse cargo el Usuario, de los gastos legales o de cualquier otra naturaleza en los que Tech Demeter, las sociedades vinculadas, sus directivos, empleados y representantes, de y contra cualquier cargo pudieran incurrir. A tal fin, Tech Demeter le notificará puntualmente de cualquier demanda, y/o acción y/o proceso.",
+		"t7": "7. RESPONSABILIDAD DEL USUARIO",
+		"p7.1": "7.1. El Usuario reconoce y acepta que utiliza el Sitio Web bajo su única y exclusiva responsabilidad. Cada Usuario conoce y acepta ser el exclusivo responsable de su accionar dentro del Sitio Web. El Usuario conoce y acepta que al realizar operaciones a través del Sitio Web lo hace bajo su propio riesgo. En ningún caso Tech Demeter será responsable por lucro cesante, o por cualquier otro daño y/o perjuicio que haya podido sufrir el Usuario, debido a las operaciones que se concreten a través del Sitio Web. Tech Demeter no será responsable por la interacción del Usuario basada en la confianza depositada en el sistema o en el Sitio Web. En especial, Tech Demeter no será responsable por órdenes, instrucciones, y/o pagos equivocados o incompletos causados por la introducción errónea de los datos identificatorios por parte del Usuario del Sitio Web, información relevante del destinatario o de la operación de pago, efectuados por el Usuario. El Usuario desde ya asume, reconoce y acepta su total responsabilidad por las pérdidas que se originen, en especial si a través de su nombre de Usuario se impartieran instrucciones fraudulentas, duplicadas, no autorizadas o meramente erróneas, así como por los eventuales perjuicios que pueda causar a Tech Demeter.",
+		"p7.2": "7.2. Al aceptar estos Términos y Condiciones, el Usuario exonera a Tech Demeter, a sus vinculadas y asociadas, a sus directores, representantes y/o empleados de cualquier responsabilidad derivada de acciones y/o demandas y/o indemnizaciones por daños de cualquier clase y/o naturaleza que tuviera origen o conexión en un enfrentamiento entre ellos.",
+		"p7.3": "7.3. Asimismo, Tech Demeter no será responsable ni garantizará el cumplimiento de las obligaciones que hubiesen asumido los Usuarios con terceros en relación a los pagos a efectuar o a recibir a través del Sitio Web. El Usuario reconoce y acepta que al realizar transacciones con otros Usuarios o terceros lo hace por su propia voluntad, prestando su consentimiento libremente y bajo su propio riesgo y responsabilidad. En ningún caso Tech Demeter será responsable por daño directo, lucro cesante, o por cualquier otro daño y/o perjuicio que haya podido sufrir el Usuario, debido a las transacciones realizadas o no realizadas a través del Sitio Web. En virtud de que Tech Demeter es ajeno a las obligaciones que dieran origen a instrucciones y/u órdenes de pago, Tech Demeter no será responsable ni verificará las causas, importe o cualquier otra circunstancia relativa a dichas instrucciones y/u órdenes, así como respecto de la existencia, calidad, cantidad, funcionamiento, estado, integridad o legitimidad de los bienes o servicios ofrecidos, adquiridos o enajenados por los Usuarios y pagados utilizando el Sitio Web, así como de la capacidad para contratar de los Usuarios y la veracidad de los datos personales por ellos ingresados. En caso que uno o más Usuarios o algún tercero inicien cualquier tipo de reclamo o acciones legales contra otro u otros Usuarios, todos y cada uno de los Usuarios involucrados en dichos reclamos o acciones eximen de toda responsabilidad a Tech Demeter y a sus directores, gerentes, empleados, agentes, operarios, representantes y apoderados. Los Usuarios tendrán idéntica asunción de responsabilidad en relación a los medios de pago utilizados para sus transacciones, quienes no garantizan el cumplimiento de las obligaciones que hubiesen asumido los Usuarios con terceros en relación a los pagos a efectuar o a recibir a través del Sitio Web.",
+		"p7.4": "7.4. El Sitio Web puede contener enlaces a sitios web de terceros lo cual no indica que sean propiedad u operados por Tech Demeter, ni que tengan relación alguna con éste. En virtud de que Tech Demeter no tiene control sobre tales sitios, no será responsable por los contenidos, y/o materiales, y/o acciones y/o servicios prestados por los mismos, ni por daños y/o pérdidas ocasionadas al Usuario por su utilización, sean causadas directa o indirectamente. La presencia de enlaces a otros sitios web no implica una sociedad, relación, aprobación ni respaldo de Tech Demeter, ni de sus sociedades vinculadas o controladas con los titulares de dichos sitios o contenidos.",
+		"p7.5": "7.5. Al aceptar estos Términos y Condiciones, el Usuario acepta y reconoce que el comercio electrónico de bienes y productos, reales o virtuales implica un riesgo significativo debido a pérdidas que se pueden producir como resultado de las fluctuaciones propias de un mercado. Teniendo en cuenta estas consideraciones, el Usuario acepta, reconoce y asume que pueden existir riesgos adicionales que no han sido expresamente previstos en estos Términos y Condiciones, y libera de cualquier clase de responsabilidad a Tech Demeter por daños o pérdidas sufridas como consecuencia directa e indirecta de las características propias de los criptoactivos.",
+		"p7.6": "7.6. Tech Demeter no garantiza la disponibilidad y continuidad del funcionamiento del Sitio Web y de los Servicios. No todos los Servicios y contenidos en general se encuentran disponibles para todas las áreas geográficas. Asimismo, Tech Demeter no garantiza la utilidad del Sitio Web y de los Servicios para la realización de ninguna actividad en particular, ni su infalibilidad y, en particular, aunque no de modo exclusivo, que el Usuario pueda efectivamente utilizar el Sitio Web, acceder a las distintas páginas web que forman el Sitio Web o a aquéllas desde las que se prestan los Servicios.",
+		"p7.7": "7.7. Tech Demeter no garantiza la privacidad y seguridad de la utilización del Sitio Web y, en particular, no garantiza que terceros no autorizados no puedan tener conocimiento de la clase, condiciones, características y circunstancias del uso que el Usuario hace del Sitio Web. Ni Tech Demeter, ni ninguna de sus sociedades controladas o vinculadas garantizan que el Sitio Web funcionará libre de errores o que el Sitio Web y su servidor estén libres de los virus informáticos u otros mecanismos lesivos. Si por el uso del Sitio Web el Usuario tiene que acudir al servicio técnico o reponer el equipo o datos, ni Tech Demeter ni ninguna de sus sociedades vinculadas o controladas será responsable de estos gastos. El Sitio Web se suministra tal como está disponible actualmente al Usuario, sin garantías de ninguna clase. Ni Tech Demeter, ni ninguna de sus sociedades vinculadas o controladas asumen garantías sobre la exactitud, veracidad, exhaustividad o actualización de los contenidos, los servicios, el software, los textos, los gráficos y los vínculos disponibles en el Sitio Web.",
+		"p7.8": "7.8. En ningún caso Tech Demeter será responsable de cualquier daño incluyendo, pero sin limitación, daños directos y/o indirectos, lucro cesante o pérdida de chance que resulten del uso o de la imposibilidad de uso del Sitio Web.",
+		"p7.9": "7.9. El Usuario declara conocer y aceptar todos los riesgos de que terceros no autorizados accedan a la información correspondiente a su cuenta, por lo cual exonera de todo tipo de responsabilidad a Tech Demeter en tal sentido, conociendo que Tech Demeter ha realizado sus mejores esfuerzos técnicos a los efectos de que la información incluida en el sistema mantenga su más alto grado de confidencialidad posible. El Usuario exime a Tech Demeter de toda responsabilidad por los daños y perjuicios de cualquier naturaleza que pudieran deberse al accionar de terceros no autorizados respecto de los Datos Personales y/o Información del Usuario, así como de los Servicios ofrecidos en el Sitio Web.",
+		"p7.10": "7.10. Tech Demeter no se responsabiliza por cualquier daño, perjuicio o pérdida que sufra un Usuario causados por fallas en el sistema, en el servidor o en Internet, tampoco será responsable por cualquier virus que pudiera infectar el equipo del Usuario como consecuencia del acceso, uso o examen del Sitio Web o a raíz de cualquier transferencia de datos, archivos, imágenes, textos, o audio contenidos en el mismo. El Usuario no podrá imputarle responsabilidad alguna ni exigirle indemnizaciones, en virtud de perjuicios resultantes de dificultades técnicas o fallas en los sistemas o en Internet. Tech Demeter no garantiza el acceso y uso continuado o ininterrumpido de su Sitio Web.",
+		"p7.11": "7.11. . Tech Demeter no tiene autoridad ni control sobre los protocolos de software que gobiernan las operaciones en criptoactivos soportadas en el Sitio Web. En general, estos protocolos son de código abierto y cualquier persona puede usarlos, copiarlos, modificarlos y distribuirlos. Al usar los Servicios, el Usuario reconoce y acepta que (i) Tech Demeter no es responsable por el funcionamiento de los protocolos subyacentes y que Tech Demeter no garantiza su funcionalidad, seguridad o disponibilidad y que (ii) los protocolos están sujetos a cambios repentinos en sus reglas operativas (es el caso de las eventuales bifurcaciones o “forks”). En el caso de ocurrir una bifurcación, el Usuario acepta que Tech Demeter puede suspender sus operaciones de forma temporaria (con o sin aviso previo) y que Tech Demeter puede, si así lo cree necesario, (a) configurar o reconfigurar sus sistemas o (b) decidir no soportar (o dejar de soportar) un protocolo alternativo, siempre y cuando el usuario tenga la oportunidad de retirar sus fondos de la plataforma. El Usuario reconoce y acepta que Tech Demeter no asume responsabilidad alguna respecto a una rama no soportada de un protocolo alternativo.",
+		"t8": "8. EL PROCESO DE TOKENIZACIÓN, TRANSACCIÓN/CONVERSION Y DESTOKENIZACIÓN",
+		"p8": "El proceso de tokenización y destokenización de los granos, conversión y el proceso de transacción por el cual un Productor adquiere bienes y servicios de un Merchant, mediante la utilización de Tokens, se encuentran descriptos en los Términos y Condiciones Particulares de la Tokenización y Transacción. Todo Usuario que actúe como Productor, Merchant y/u Oráculo debe registrarse adecuadamente como tal en el Sitio Web y aceptar expresamente dichos Términos y Condiciones Particulares de la Tokenización y Transacción a efectos de acceder a las funcionalidades completas de tokenización y destokenización de activos digitales a emitirse bajo el Sitio Web y a la transacción con los mismos.",
+		"t9": "9. EMPLEADOS DE TECH DEMETER",
+		"p9.1": "9.1. Los empleados de Tech Demeter podrán utilizar el Sitio Web siguiendo estrictamente estos Términos y Condiciones. Se entenderá que hacen uso del Sitio Web con propósitos personales y bajo ningún concepto en nombre de Tech Demeter ni ninguna de sus sociedades vinculadas o controladas. Por este motivo, ni Tech Demeter ni ninguna de sus sociedades vinculadas o controladas se responsabilizan por los contactos que éstos realicen. Los empleados de Tech Demeter están sujetos a estos Términos y Condiciones en las mismas condiciones que cualquier Usuario del Sitio Web. Para utilizar el Sitio Web, sus empleados deben consignar su dirección de e-mail y domicilio personales y no las de su empleo en Tech Demeter.",
+		"t10": "10. CESIÓN O USO COMERCIAL NO AUTORIZADO",
+		"p10.1": "10.1. Usted acepta no ceder, bajo ningún título, sus derechos u obligaciones bajo estos Términos y Condiciones. Usted también acepta no realizar ningún uso comercial no autorizado del Sitio Web.",
+		"p10.2": "10.2. Asimismo, el Usuario se compromete a utilizar el Sitio Web y los Servicios diligentemente y de conformidad con la ley aplicable y vigente y con estos Términos y Condiciones.",
+		"t11": "11. CANCELACIÓN",
+		"p11.1": "11.1. Tech Demeter tiene la facultad, y no la obligación, de emitir advertencias, suspensiones temporales y cancelaciones permanentes (baja) del Usuario registrado por infracciones a estos Términos y Condiciones, y/o cualquier aviso, reglamento de uso e instrucción puestos en conocimiento del Usuario por Tech Demeter.",
+		"p11.2": "11.2. Sin perjuicio de lo indicado en el punto anterior, Tech Demeter se reserva el derecho, a su exclusivo criterio, de emplear todos los medios legales a su alcance en caso que Usted infrinja cualquiera de estos Términos y Condiciones.",
+		"t12": "12. MODIFICACIÓN DE LOS TÉRMINOS Y CONDICIONES",
+		"p12.1": "12.1. Tech Demeter se reserva el derecho a modificar total o parcialmente estos Términos y Condiciones en cualquier momento, teniendo vigencia tal modificación en forma automática a partir de su publicación en el Sitio Web. El Usuario acepta que la publicación en el Sitio Web de cualquier modificación a estos Términos y Condiciones tendrá plena validez como notificación suficiente, y renuncia a cualquier tipo de impugnación al respecto. Asimismo, si el Usuario persiste en la utilización de los Servicios y/o el Sitio Web, se considerará que ha aceptado implícitamente estos Términos y Condiciones.",
+		"p12.2": "12.2. En caso de declararse la nulidad de alguna de las cláusulas de estos Términos y Condiciones, tal nulidad no afectará a la validez de las restantes, las cuales mantendrán su plena vigencia y efecto.",
+		"p12.3": "12.3. Estos Términos y Condiciones, junto con la Política de Privacidad [https://login.agrotoken.io/es/privacy-policy] constituyen la totalidad del acuerdo entre Usted y Tech Demeter respecto del uso del Sitio Web.",
+		"t13": "13. DURACIÓN Y TERMINACIÓN",
+		"p13.1": "13.1. La prestación de los Servicios y de los demás contenidos y servicios tiene, en principio, una duración indefinida. No obstante ello, el Usuario está autorizado para dar por terminada o suspender la prestación de los Servicios y/o de cualquiera de los contenidos y servicios en cualquier momento. Cuando ello sea razonablemente posible, el Sitio Web comunicará previamente la terminación o suspensión de la prestación de servicios a través del Sitio Web. Dicha suspensión y/o terminación de ninguna manera podrá originar el derecho al Usuario a reclamar por los daños y/o perjuicios que pudieran producirle la suspensión y/o terminación del Sitio.",
+		"p13.2": "13.2. El usuario puede solicitar la baja de su Cuenta (cierre de Cuenta), vía email a soporte@agrotoken.io, únicamente desde la casilla de correo con el cual se registró, o vía carta documento válida a la dirección legal de Tech Demeter, detallada en estos Términos y Condiciones y dejando constancia de la voluntad de cerrar la Cuenta. Tech Demeter se reserva el derecho de solicitar comprobantes y/o información adicional a efectos de corroborar la veracidad de la información suministrada y/o de la solicitud efectuada por el Usuario. Una vez que dicha solicitud se considere válida, Tech Demeter procederá al cierre de la Cuenta y la eliminación de las credenciales de acceso, lo cual implica que el Usuario no podrá acceder nuevamente. El ID y el email asociados a dicha Cuenta permanecerán bloqueados, es decir no podrá crear una nueva cuenta para dichos parámetros. La información de transacciones permanecerá durante toda la vida del Sitio Web, dado que es información estructural, y la información particular del usuario permanecerá como reporte, a modo de respaldo, por el período de al menos diez  años corridos, desde el momento del cierre,. El Usuario puede solicitar una copia de dicha información, vía email a soporte@agrotoken.io, únicamente desde la casilla de correo con el cual se registró, o vía carta documento válida a la dirección legal de Tech Demeter, dicho reporte será entregado en el plazo que la Empresa determine, únicamente por email o vía carta documento al domicilio que el Usuario disponga en la solicitud previamente mencionada.",
+		"p13.3": "13.3. Tech Demeter podrá terminar anticipadamente la relación contractual con el Usuario y por ende la prestación del Servicio, sin necesidad de invocar causa alguna, debiendo al efecto preavisar en forma fehaciente con por lo menos treinta (30) días de anticipación a la fecha de terminación.",
+		"p13.4": "13.4. El incumplimiento por el Usuario a cualquiera de las obligaciones a su cargo consignadas en las presentes Condiciones o en las condiciones particulares que pudieran aplicar a cada Servicio, que no fueran subsanadas dentro de los cinco (5) días de recibida la intimación al cumplimiento por parte de Tech Demeter, facultará a Tech Demeter, a optar por: (i) tener por resuelto el presente automáticamente y de pleno derecho; o (ii) exigir el cumplimiento de la prestación debida, en ambos casos con más la indemnización de los daños y perjuicios ocasionados.",
+		"p13.5": "13.5. Extinción anticipada por causas vinculadas con la solvencia del Usuario: Tech Demeter podrá tener por resuelto el vínculo contractual en caso de mediar un pedido de quiebra, presentación en concurso preventivo, cesación de pagos, tramitación de un acuerdo preventivo extrajudicial (APE) o cualquier otra circunstancia que manifieste razonablemente una disminución de la solvencia del Usuario o de su capacidad en el cumplimiento de las obligaciones asumidas, conforme las presentes Condiciones y/o las condiciones particulares que pudieran aplicar a cada Servicio.",
+		"p13.6": "13.6. En este supuesto Tech Demeter deberá notificar al Usuario su voluntad de resolver el vínculo en forma fehaciente sin necesidad de ningún otro requisito adicional. El ejercicio de esta opción no generará a favor del Usuario derecho a percibir suma alguna por ningún concepto, en especial por daños y perjuicios, lucro cesante o ganancias perdidas, daño emergente, etc.",
+		"t14": "14. DETERMINAR Y COMPARTIR LA UBICACIÓN",
+		"p14.1": "14.1. Los Servicios utilizan la ubicación, por lo que necesitan conocer su ubicación para funcionar. Cada vez que abra, utilice, interactúe con nuestras aplicaciones o ingrese a nuestro Sitio Web con su dispositivo móvil, utilizamos la información de ubicación de su dispositivo móvil o navegador (por ejemplo, latitud y longitud) para adaptar los Servicios a su ubicación actual. Esta información no se comparte con otros. Además, los Servicios utilizan la “ubicación en segundo plano” de su dispositivo móvil para proporcionar los Servicios. Si tiene activada la ubicación en segundo plano, la aplicación Agrotoken nos informará ocasionalmente de la ubicación de su dispositivo, aunque no esté interactuando directamente con la aplicación.",
+		"t15": "15. NO SE OFRECEN CONSEJOS DE INVERSIÓN",
+		"p15.1": "15.1. Queda expresamente establecido, y el Usuario acepta que Tech Demeter, a través del Sitio Web, no proporciona ningún tipo de consejo de inversión en relación con los Servicios. Tech Demeter podrá proporcionar información sobre el precio, el rango, la volatilidad de los criptoactivos y eventos que han afectado los criptoactivos, pero esto en ningún caso se considerará asesoría financiera o de inversión y no deberá interpretarse como tal. Cualquier decisión de compra o venta de criptoactivos es decisión exclusiva del Usuario y Tech Demeter no será responsable de cualquier pérdida sufrida como consecuencia de esa decisión.",
+		"t16": "16. OBLIGACIONES FISCALES",
+		"p16.1": "16.1. Cada Usuario será responsable por todas las obligaciones y cargas impositivas que correspondan por sus operaciones en el Sitio Web, sin que pueda imputársele a Tech Demeter ningún tipo de responsabilidad derivada de las mismas. Tech Demeter no se responsabiliza por el efectivo cumplimiento de las obligaciones fiscales o impositivas establecidas por las leyes aplicables y/o cualquier otra obligación que surja en virtud de lo celebrado entre cada Usuario.",
+		"t17": "17. DECLARACIONES Y GARANTÍAS",
+		"p17.1": "17.1. El Usuario reconoce y acepta que Tech Demeter: (i) no garantiza la utilidad de los Servicios para finalidades específicas; (ii) no será responsable por las relaciones que como consecuencia del uso de los Servicios puedan entablarse entre los usuarios del Sitio Web y el Usuario; (iii) no será responsable por la veracidad de los datos y/o información, y/o la licitud de los contenidos que los usuarios o los Usuarios ingresen al Sitio Web; (iv); y (v) no garantiza ningún mercado de criptoactivos, por lo que el Usuario excluye toda responsabilidad de Tech Demeter por los daños y perjuicios de toda naturaleza que pudiera sufrir como consecuencia de la ausencia de tal mercado.",
+		"p17.2": "17.2. El Usuario declara y garantiza que: (i) el uso de los Servicios se lleva a cabo bajo su única y exclusiva responsabilidad y riesgo comercial; (ii) utilizará los Servicios en un todo de acuerdo a la normativa vigente y demás leyes, decretos, resoluciones, disposiciones y decisiones gubernamentales que en el futuro se dicten y resulten aplicables; (iii) cuenta con plenas facultades para aceptar estas Condiciones y cumplir con todas las obligaciones emergentes de la prestación de los Servicios; (iv) ningún integrante del personal del Usuario actuará ni realizará declaración alguna ni actuará de modo tal que razonablemente pueda dar lugar a un daño para Tech Demeter, inclusive un perjuicio a su reputación; y (v) indemnizará a Tech Demeter por las pérdidas sufridas como resultado de cualquier violación a cualquier garantía estipulada en la presente cláusula.",
+		"t18": "18. CANALES DE COMUNICACIÓN DISPONIBLES",
+		"p18.1": "18.1. En la medida que se encuentren disponibles, el Usuario deberá utilizar los canales de comunicación disponibles -como chats y foros de discusión, entre otros- (en adelante, los “Canales”) de forma responsable, correcta y dando fiel cumplimiento a la normativa vigente.",
+		"p18.2": "18.2. El contenido de cada mensaje enviado por el Usuario a través de los Canales es de única y exclusiva responsabilidad del Usuario. Tech Demeter no garantiza la veracidad de los datos personales y/o contenidos de cada mensaje efectuados y/o publicados en los Canales por el Usuario. El Usuario acepta voluntariamente que el acceso a y/o el uso de los Canales tiene lugar, en todo caso, bajo su exclusiva y única responsabilidad.",
+		"p18.3": "18.3. Tech Demeter se reserva el derecho a suspender temporal o definitivamente de los Canales y/o de los Servicios sin previo aviso, a quien no respete estos Términos y Condiciones o realice actos que atenten contra el normal funcionamiento de los Servicios y/o de los Canales y/o del Sitio Web.",
+		"p18.4": "18.4. El Usuario reconoce y acepta que las siguientes conductas se encuentran terminantemente prohibidas: (i) utilizar lenguaje vulgar /obsceno, discriminatorio y/u ofensivo; (ii) todo tipo de ataque personal contra algún Usuario y/o terceros, incluyendo clientes de Tech Demeter, mediante acoso, amenazas, insultos; (iii) todo acto contrario a las leyes, la moral y las buenas costumbres; (iv) publicar mensajes, imágenes e hipervínculos agraviantes, difamatorios, calumniosos, injuriosos, falsos, discriminatorios, pornográficos, de contenido violento, insultantes, amenazantes, incitantes a conductas ilícitas o peligrosas para la salud, y/o que vulneren de cualquier forma la privacidad de cualquier tercero como así también la violación directa o indirecta de los derechos de propiedad intelectual de Tech Demeter y/o de cualquier tercero, incluyendo clientes de Tech Demeter; (v) publicar mensajes que puedan herir y/o afectar la sensibilidad de cualquier Usuario y/o de cualquier tercero, incluyendo clientes de Tech Demeter; (vi) promocionar, comercializar, vender, publicar y/u ofrecer cualquier clase de productos, servicios y/o actividades por intermedio de o a través de la utilización de los Canales, excepto aquellas expresamente permitidas por Tech Demeter; (vii) la venta, locación o cesión, ya sea a título oneroso o gratuito, del espacio de comunicación de los Canales; (viii) publicar mensajes que de cualquier forma contengan publicidad; (ix) el uso o envío de virus informáticos, malware, spyware, ransomware y/o la realización de todo acto que cause o pudiera causar daños o perjuicios al normal funcionamiento de los Servicios y/o los Canales, o de los equipos informáticos o software de Tech Demeter y/o de cualquier tercero, incluyendo clientes de Tech Demeter;  (x) todo acto dirigido a enmascarar y/o falsificar o disimular direcciones IP, correos electrónicos y/o cualquier otro medio técnico de identificación del Usuario o sus equipos informáticos; (xi) todo acto que viole la privacidad de otro Usuario, o que viole cualquiera de sus derechos bajo la Ley N° 25.326; (xii) la publicación de datos personales sin el consentimiento expreso del titular de los mismos; (xiii) la transmisión o divulgación de material que viole la legislación en vigor en el país y/o que pudiera herir la sensibilidad de cualquier Usuario y/o de cualquier tercero, incluyendo clientes de Tech Demeter; (xiv) la publicación de cualquier tipo de contenido en violación de derechos de terceros, incluyendo sin limitación los derechos de propiedad intelectual y/o industrial.",
+		"p18.5": "18.5. Tech Demeter no tiene obligación de controlar ni controla la utilización que el Usuario haga de los Canales. No obstante ello, Tech Demeter se reserva el derecho de no publicar o remover luego de ser publicados todos aquellos contenidos y/o mensajes propuestos y/o publicados por el Usuario que, a exclusivo criterio de Tech Demeter, no respondan estrictamente a las disposiciones contenidas en estos Términos y Condiciones y/o resulten impropios y/o inadecuados a las características, finalidad y/o calidad de los Servicios.",
+		"p18.6": "18.6. Tech Demeter no garantiza la disponibilidad y continuidad del funcionamiento de los Canales ni es responsable de la destrucción, alteración o eliminación del contenido o información que cada Usuario incluya en sus mensajes.",
+		"p18.7": "18.7. Cada Usuario es único y exclusivo responsable de sus manifestaciones, dichos, opiniones y todo acto que realice a través de los Canales.",
+		"t19": "19. GENERAL",
+		"p19.1": "19.1. En caso de declararse la nulidad de alguna de las cláusulas de estos Términos y Condiciones, tal nulidad no afectará a la validez de las restantes, las cuales mantendrán su plena vigencia y efecto.",
+		"p19.2": "19.2. La tolerancia de Tech Demeter respecto del incumplimiento del Usuario a cualquier disposición de las presentes Condiciones no podrá entenderse como renuncia a ejercer sus derechos para exigir su cumplimiento.",
+		"p19.3": "19.3. El Usuario acepta y reconoce que la aceptación de estos Términos y Condiciones no crea ningún contrato de sociedad, de mandato, de franquicia, o relación laboral entre Tech Demeter y el Usuario.",
+		"p19.4": "19.4. Se fija como domicilio de Tech Demeter el siguiente: Migueletes 1231, 2do piso, departamento A, Ciudad Autónoma de Buenos Aires.",
+		"p19.5": "19.5. Los contenidos de las pantallas relativas al Sitio Web como así también los programas, bases de datos, redes y archivos que permiten al Usuario acceder y usar su Cuenta, son de propiedad exclusiva de Tech Demeter y están protegidas por las leyes y los tratados internacionales de derecho de autor, marcas, patentes, modelos y diseños industriales.",
+		"p19.6": "19.6. La prestación de los Servicios y estos Términos y Condiciones se rigen por las leyes de la República Argentina. El Usuario se somete a la jurisdicción de los Tribunales Ordinarios de la Ciudad de Buenos Aires, con renuncia expresa a cualquier otro fuero y/o jurisdicción.",
+		"footer": "Estos Términos y Condiciones Generales fueron actualizados por última vez el 07 de abril de 2022."
+	},
+	"termsConditionsVisa": {
+		"agrotokenLink": "https://agrotoken.io",
+		"agrotokenBusinessName": "Payagtk SA",
+		"title": "Términos y Condiciones Particulares Tarjeta",
+		"p1": "Esta página establece los términos y condiciones particulares de solicitud y uso de la Tarjeta Prepaga(en adelante, los “Términos y Condiciones”) que ofrece Payagtk S.A. y demás servicios de sus sociedades controlantes, controladas, vinculadas y sujetas a control común (en adelante, “Payagtk”) dentro del sitio web www.agrotoken.io (en adelante, el “Sitio Web”). El Sitio Web es administrado por Tech Demeter S.A. (en adelante, “Tech Demeter”), CUIT 30-71698855-0, en domicilio en Migueletes 1231, 2do piso, departamento A, Ciudad Autónoma de Buenos Aires.",
+		"p2": "El Productor podrá utilizar los Tokens que tenga disponibles en su billetera virtual a través de la tarjeta prepaga ofrecida por Payagtk S.A. (la 'Tarjeta Prepaga'). La solicitud y uso de la Tarjeta Prepaga por parte del Productor implica la aceptación de los términos y condiciones que se detallan a continuación:",
+		"t1": "1. Tarjeta Prepaga",
+		"p1.1": "1.1. Cualquier Productor con una billetera virtual abierta en Tech Demeter podrá ser titular de una Tarjeta Prepaga (el “Titular”). En caso de que un Productor que sea persona jurídica solicite una Tarjeta Prepaga a favor de un Titular , el mismo deberá tener una relación con el Productor conforme lo declare entre las opciones disponibles al momento de solicitar la Tarjeta Prepaga. En este sentido, el Titular podrá ser, entre otros, un socio, accionista, gerente, empleado, apoderado o representante legal del Productor.",
+		"p1.2": "1.2. La Tarjeta Prepaga es un plástico nominado o virtual que se puede utilizar para adquirir bienes y/o servicios en la República Argentina en establecimientos asociados a la red Visa. Asimismo, podrá utilizarse para adquirir bienes y/o servicios en el exterior en establecimientos asociados a la red Visa. En ningún caso se podrán realizar extracciones en la República Argentina como en el exterior. La Tarjeta Prepaga podrá ser utilizada para realizar pagos presenciales, por internet, teléfono o por cualquier otro canal habilitado.",
+		"p1.3": "1.3. La Tarjeta Prepaga no es una tarjeta de crédito, débito o de compra, y no admite compras en cuotas. Los pagos realizados con la Tarjeta Prepaga se debitarán del valor de los Tokens disponibles en la billetera virtual, mediante la quema inmediata de los Tokens respectivos y su conversión a dinero de curso legal a través del ejercicio de los derechos de cobro del Boleto.",
+		"t2": "2. Tarifas",
+		"p2.1": "2.1. Las tarifas aplicables a la obtención y uso de la Tarjeta Prepaga se encuentran disponibles para consultar en todo momento (las “Tarifas”).",
+		"t3": "3. Solicitud de la Tarjeta Prepaga",
+		"p3.1": "3.1. A los fines de generar la Tarjeta Prepaga, se utilizará la información proporcionada a través de la plataforma por el solicitante, como usuario previamente validado. Ante cualquier omisión o inexactitud en los datos suministrados o información adicional necesaria para emitir la Tarjeta Prepaga, en particular a los efectos de cumplir con la normativa, pero no limitada, a la Unidad de Información Financiera (“UIF”), con el Manual de Procedimiento para la Prevención de Lavado de Activos y Financiación del Terrorismo y/o con cualquier otro recaudo que se pudiera exigir a los efectos de cumplir con esta normativa. El Productor deberá proporcionar en forma exacta, verdadera y completa todos los datos personales, documentos e información que le fueran requeridos. El Productor se compromete a mantener actualizados dichos datos, documentación e información, registrándolos en la plataforma y/o suministrándolos por medio de los distintos canales de atención habilitados. Sin perjuicio de ello, se le podrán solicitar igualmente comprobantes o información adicional para completar o corroborar la información brindada.",
+		"p3.1.2": "3.1.2. Consentimiento del tratamiento de Datos Personales.",
+		"p3.1.3": "Tech Demeter y Payagtk S.A. quedan autorizadas por el Productor a suministrar a Visa, al Banco Central de la República Argentina, a la UIF y/o cualquier otra autoridad y/u organismo competente que lo solicite, según corresponda, la totalidad de la información proporcionada acerca del Productor y/o del Titular o tarjetahabiente, que resulte necesaria para cubrir los requerimientos del Sistema de las Tarjetas Prepagas. Tech Demeter y Payagtk cuentan con sus Bases de Datos Registradas conforme lo establecido por la normativa vigente. En este sentido, el Productor mediante la aceptación de estos términos y condiciones presta su consentimiento libre e informado, y declara conocer y aceptar que sus datos personales y todos aquellos vinculados o emergentes de la utilización de la Tarjeta Prepaga integren la Base de Datos. Asimismo, autoriza a Tech Demeter y/o Payagtk S.A. y a sus vinculadas, al tratamiento de dicha información y la utilización de la misma para llevar a cabo la operatoria de la Tarjeta Prepaga. Sin perjuicio de que el Productor cuenta con acceso a sus datos personales existentes en la Base de Datos de Tech Demeter y/o  Payagtk S.A. a través de la plataforma, se deja de manifiesto que también podrá acceder a su información personal de forma gratuita en intervalos no inferiores a seis meses, salvo que se acredite un interés legítimo. Asimismo, el Productor podrá solicitar, en cualquier momento, la actualización, rectificación y/o supresión de los datos personales oportunamente suministrados. A los fines dispuestos en el presente párrafo, deberán remitir su solicitud por correo electrónico a delete.account@agrotoken.io o por correo postal al siguiente domicilio: QUITO 2618 Piso:2 Dpto:7 - BECCAR - 1643 - BUENOS AIRES.",
+		"p3.2": "3.2. Toda la información o documentación provista por el Productor o Titular tienen carácter de declaración jurada. No obstante, tanto Tech Demeter como Payagtk S.A. podrán solicitar comprobantes o información adicional para completar o corroborar la información entregada por un Productor o Titular, incluso a partir de la superación de ciertos montos de transacciones mensuales realizadas por el Titular.",
+		"p3.3": "3.3. La solicitud de la Tarjeta Prepaga quedará perfeccionada con la recepción de la Tarjeta Prepaga por parte del Titular o del adicional tarjetahabiente. Sin embargo, Payagtk S.A. podrá rechazar una solicitud de Tarjeta Prepaga, suspenderla o cancelarla en caso de detectar inconsistencias en los datos o documentación provista por un Productor o Titular o adicional tarjetahabiente, o en caso de que no proporcionen los datos o documentación adicional solicitada. Asimismo, Payagtk S.A. podrá en cualquier caso rechazar una solicitud de Tarjeta Prepaga a su criterio exclusivo, sin necesidad de proveer una justificación al Productor.",
+		"p3.4": "3.4. El Titular podrá solicitar Tarjetas Prepagas adicionales vinculadas a la misma billetera virtual abierta en Tech Demeter.",
+		"t4": "4. Activación y utilización de la Tarjeta Prepaga",
+		"p4.1": "4.1. Una vez recibida, la Tarjeta Prepaga podrá ser activada a través de los medios que indique Payagtk S.A., siguiendo las instrucciones correspondientes. Si la correspondencia que contiene la Tarjeta Prepaga está dañada o violada, el Titular deberá rechazar su recepción y comunicar el hecho de inmediato a través de los canales de atención disponibles.",
+		"p4.2": "4.2. Luego de ser activada, la Tarjeta Prepaga se podrá utilizar dentro del plazo de validez impreso en su frente, sujeto al saldo valorizado de los Tokens disponibles en la billetera virtual abierta en Tech Demeter, y dentro de los límites de uso diarios para operaciones determinados por Payagtk S.A. y/o por las redes de servicios asociados.",
+		"p4.3": "4.3 La Tarjeta Prepaga es personal e intransferible. El Productor será el único responsable de la custodia y confidencialidad de la Tarjeta Prepaga y su contraseña o código de seguridad. Por lo tanto, el Titular es responsable por todas las operaciones realizadas con la Tarjeta Prepaga. En caso de que un Productor hubiera solicitado una Tarjeta Prepaga para un autorizado o adicional, la responsabilidad por la custodia, confidencialidad y operaciones realizadas con dicha Tarjeta Prepaga es del Productor y éste en ningún caso podrá eximirse de responsabilidad alegando responsabilidades del Titular o adicional tarjetahabiente.",
+		"p4.4": "4.4. Por razones de seguridad, el ingreso incorrecto de la contraseña de la Tarjeta Prepaga en un cajero automático podrá derivar en la retención de la Tarjeta Prepaga por parte de la red del servicio del cajero automático. En ese caso, el Titular deberá solicitar una nueva Tarjeta Prepaga por los canales habilitados.",
+		"p4.5": "4.5. El uso de la Tarjeta Prepaga estará sujeto a la disponibilidad de la red Visa, circunstancia ajena a Tech Demeter y/o Payagtk S.A.. La aprobación de la transacción se realizará de acuerdo con los procedimientos específicos según el tipo de transacción o canal de pago utilizado. Por ejemplo, respecto de algunos canales de pago ofrecidos por ciertos establecimientos, el uso de la contraseña o la firma se podrán reemplazar mediante la indicación del número de la Tarjeta Prepaga, su fecha de vencimiento y su código de seguridad. En cualquier caso, el cumplimiento de los requisitos necesarios para realizar la transacción implica la aceptación de la transacción y su consiguiente responsabilidad por parte del Titular.",
+		"p4.6": "4.6. Los montos de las transacciones realizadas con la Tarjeta Prepaga y las Tarifas se debitarán del saldo valorizado de los Tokens disponibles en la billetera virtual del Productor en forma inmediata, total y en un solo débito de la cantidad de Tokens necesarios para cancelar el monto de la transacción realizada, procediéndose automáticamente a su quema (burning) y ejercicio de los derechos de cobros respectivos respecto del Boleto. Si el saldo valorizado de los Tokens disponibles no fuera suficiente, la transacción no será autorizada. Las operaciones realizadas con la Tarjeta Prepaga se podrán consultar en los movimientos de la billetera virtual del Productor.",
+		"p4.6.1": "Los tokens disponibles en la billetera virtual del Productor o Titular no constituyen depósitos en una entidad financiera, ni cuentan con ninguna de las garantías que tales depósitos puedan gozar de acuerdo con la legislación y reglamentación aplicables en materia de depósitos de Entidades Financieras.",
+		"p4.7": "4.7. Cualquier cancelación de una transacción de compra deberá ser solicitada por el Titular al establecimiento. En el momento de la solicitud de cancelación, el Titular deberá obtener el comprobante de cancelación correspondiente directamente del establecimiento. Los saldos de la Tarjeta Prepaga serán reintegrados al Productor a partir de la aprobación de la cancelación por parte de Visa.",
+		"t4.7.1": "4.7.1. Desconocimientos y Contracargos:",
+		"p4.7.1.1": "4.7.1.1. La adquisición de bienes y/o servicios por parte del Productor y/o Titular utilizando la Tarjeta Prepaga como medio de pago genera una relación entre aquel y el proveedor de dichos bienes y/o servicios ajena a Tech Demeger y/o Payagtk S.A., por lo tanto, dichas transacciones no podrán ser revocadas ni anuladas por estas últimas.",
+		"p4.7.1.2": "4.7.1.2. La solicitud de cancelación de una transacción deberá ser gestionada personalmente por el Productor y/o Titular al proveedor de bienes y/o servicios y, una vez obtenido el comprobante correspondiente, se elevará dicho reclamo a VISA y/o Pomelo para que, sujeto a la aprobación de aquella, se reintegre el importe de la cancelación a la cuenta del Productor y/o Titular.",
+		"p4.7.1.2.3": "4.7.1.3. El Productor y/o Titular y/o adicional tarjetahabiente podrá desconocer una transacción y/o movimiento de su cuenta, dentro de los 30 días de visualizado el mismo en la billetera virtual. Para ello, deberá informar a  Payagtk. a través de los canales habilitados, la cual deberá dar trámite de dicho desconocimiento dentro de los 7 días de recibido el reclamo. En caso de corresponder, se podrá requerir al Productor y/o Titular la documentación respaldatoria que acredite dicho desconocimiento en forma previa a la devolución del monto en un plazo no mayor a los 15 días de recepcionado el reclamo.",
+		"t5.5": "5.5. Declaración Jurada PEP y de Origen de Fondos",
+		"p5.1": "5.1. El Productor declara bajo juramento que no se encuentra incluido y/o alcanzado dentro de la “Nómina de Personas Expuestas Políticamente” (PEP) aprobada por la Unidad de Información Financiera, que ha leído. En caso afirmativo, el Productor se compromete a indicar detalladamente el motivo a Payagtk a través de los canales de atención habilitados. Además, el Titular asume el compromiso de informar cualquier modificación que se produzca a este respecto dentro de los 30 días de ocurrida, mediante la presentación de una nueva declaración jurada a través de los canales de atención habilitados.",
+		"p5.2": "5.2. El Productor manifiesta con carácter de declaración jurada que los fondos utilizados para las operaciones realizadas con la Tarjeta Prepaga fueron obtenidos mediante actividades lícitas y declaradas, y tendrán un destino igualmente legítimo.",
+		"t5.6": "5.6. Vigencia de la Tarjeta Prepaga",
+		"p6.1": "6.1. La Tarjeta Prepaga será válida desde la fecha de su activación hasta la fecha de vencimiento informado en su frente. Vencido el plazo de vigencia, la Tarjeta Prepaga se cancelará automáticamente. Sin embargo, Payagtk S.A. podrá cancelar la Tarjeta Prepaga en caso de que no fuera utilizada por su Titular durante un plazo de 6 meses o mayor sin notificación previa a su Titular.",
+		"p6.2": "6.2. En caso de vencimiento y/o cancelación de la Tarjeta Prepaga, el Titular podrá solicitar una nueva Tarjeta Prepaga por los canales habilitados.",
+		"t7": "7. Denuncia de extravío, robo, hurto, cancelación y nueva emisión de Tarjeta Prepaga",
+		"p7.1": "7.1. El Titular deberá comunicar inmediatamente al emisor , por el medio habilitado a tal efecto, el extravío, hurto, robo o uso indebido de la Tarjeta Prepaga. La Tarjeta Prepaga informada como extraviada, hurtada, robada o usada indebidamente será cancelada y no podrá ser reactivada.",
+		"p7.2": "7.2. El Productor o Titular será el único responsable por el uso de su Tarjeta Prepaga hasta que comunique el evento y obtenga la confirmación de la cancelación de la Tarjeta Prepaga. Payagtk y Visa no serán responsables en ningún caso por el uso de la Tarjeta Prepaga antes de su cancelación efectiva.",
+		"p7.3": "7.3. Una vez cancelada, la emisión de una nueva Tarjeta Prepaga estará sujeta a las Tarifas aplicables.",
+		"t8": "8. Cancelación o suspensión de la Tarjeta Prepaga",
+		"p8.1": "8.1. El Titular podrá solicitar la cancelación voluntaria de su Tarjeta Prepaga en cualquier momento a través de los canales habilitados.",
+		"p8.2": "8.2. Además, la Tarjeta Prepaga será cancelada o suspendida, sin limitación, en los siguientes casos: (i) denuncia de daño, extravío, robo o hurto de la Tarjeta Prepaga por parte del Titular, (ii) requerimiento judicial o de autoridad competente, (iii) sospecha de fraude, uso ilegal o prohibido a criterio exclusivo de Payagtk. o Visa, (iv) suspensión o cancelación de la billetera virtual del Productor abierta en Tech Demeter, (v) falta de provisión de información o documentación solicitada, e (vi) incumplimiento de los presentes términos y condiciones.",
+		"t8.2": "8.2. Derecho del Productor y/o Titular de baja o arrepentimiento",
+		"p8.2.1": "8.2.1. Baja: En cualquier momento el Titular tiene derecho a solicitar la baja de la Tarjeta Prepaga, en forma fácil y expedita a través de un canal habilitado en la página web o aplicación.",
+		"p8.2.2": "8.2.2 Arrepentimiento: El Titular tiene derecho a solicitar la revocación de su solicitud de Tarjeta Prepaga, dentro del plazo de 10 días corridos a contar desde la recepción de la misma. A tal fin deberá comunicar a través del canal habilitado en la página web, la voluntad de revocar la solicitud y devolver la Tarjeta Prepaga, sin costo ni responsabilidad alguna para el Titular, en caso de que no haya hecho uso alguno de la Tarjeta Prepaga. Caso contrario, se le debitará los costos asociados proporcionales al tiempo de utilización de la misma.",
+		"p8.2.3": "8.2.3. Con el fin de proceder a la baja o la revocación del servicio, se pondrá a disposición del Titular un botón identificado con el trámite a realizar en un lugar visible de la página web. En el caso de que el Titular active dicho botón, se procederá a informarle el número de trámite correspondiente y se dará curso a la baja o revocación del producto, según corresponda, en forma automática o, caso contrario, se informará al mismo de los motivos y plazos de resolución del pedido. La baja y la revocación no tendrán costo alguno, sin perjuicio de lo establecido en el punto anterior con relación a la revocación del producto.",
+		"t9": "9. Canales de Atención al Titular",
+		"p9.1": "9.1. Tech Demeter y/o Payagtk brindará al Titular distintos canales de atención para que éste pueda despejar sus dudas o realizar consultas relacionadas con la Tarjeta Prepaga. El Titular podrá obtener ayuda en el Sitio Web de ayuda disponible las 24 horas del día, los 7 días de la semana.",
+		"t10": "10. Operaciones en el exterior",
+		"p10": "El tipo de cambio que se tomará en consideración para la conversión de moneda extranjera a pesos para las operaciones realizadas con la Tarjeta Prepaga en el exterior, será el tipo de cambio vendedor minorista del Banco de la Nación Argentina publicado al cierre del día anterior a fecha de la operación (“Tipo de Cambio BNA”), más el 10% sobre el Tipo de Cambio BNA.",
+		"t11": "11. Limitación de responsabilidad",
+		"p11.1": "11.1. Tech Demeter y/o Payagtk no garantizan el acceso ininterrumpido de los canales de uso de la Tarjeta Prepaga, los cuales pueden no estar disponibles debido a inconvenientes técnicos, fallas de internet, indisponibilidad de la red Visa, indisponibilidad de cajeros automáticos adheridos a la red, o cualquier otro motivo, incluso ajeno a Tech Demeter o a Payagtk",
+		"p11.2": "11.2. Los Productores o Titulares o adicionales tarjetahabientes exoneran de todo tipo de responsabilidad a Tech Demeter y/o Payagtk por daño directo, lucro cesante o cualquier otro daño o perjuicio que haya podido sufrir el Titular con relación a las transacciones con la Tarjeta Prepaga realizadas, rechazados o restringidas.",
+		"p11.3": "11.3. Los Productores y/o Titulares y/o adicionales tarjetahabientes mantendrán indemnes a Tech Demeter y/o Payagtk , sus vinculadas y a sus directores, gerentes, empleados, agentes, operarios, representantes y apoderados, por cualquier daño directo, lucro cesante o cualquier otro daño o perjuicio que sufran o puedan sufrir en relación con las transacciones realizadas, rechazos o cualquier otro movimiento vinculado con la Tarjeta Prepaga.",
+		"t12": "12. Pomelo Fintech Services S.A.S. como proveedor de servicios de pagos",
+		"p12": "Payagtk ha celebrado un acuerdo con Pomelo Fintech Services S.A.S. por el cual éste último ofrece la infraestructura tecnológica para la emisión de tarjeta prepaga y  procesamiento emisor de tarjeta, no encontrándose autorizada a operar como entidad financiera por el Banco Central de la República Argentina. Tech Demeter y Payagtk no prestan al Productor o Titular o adicional tarjetahabiente ningún servicio bancario o cambiario. Los Tokens depositados en la billetera virtual del Productor no constituyen depósitos en una entidad financiera, ni cuentan con ninguna de las garantías que tales depósitos puedan gozar de acuerdo con la legislación y reglamentación aplicables en materia de depósitos de entidades financieras. Pomelo Fintech Services S.A.S. será responsable de (i) emisión de tarjetas virtuales y plásticas a favor de los Productores o Titulares o adicionales, (ii) Procesamiento de transacciones relacionadas con las Tarjetas Prepagas, (iii) Provisión de licencia de BIN, y (iv) Distribución de Tarjetas Prepagas.",
+		"t13": "13. Impuestos",
+		"p13.1": "13.1 Todos los impuestos actuales y futuros que directa o indirectamente graven la Tarjeta Prepaga así como los gastos que se efectúen con ella (emisión/mantenimiento/consumos), estarán a cargo del Titular según corresponda, y serán debitados de su cuenta.",
+		"p13.2": "13.2. El Titular se compromete a mantener en su cuenta permanentemente un saldo en tokens destinado al pago de los impuestos que puedan gravar a la Tarjeta Prepaga. En caso de que el mismo sea insuficiente, se informará al mismo, a través de la plataforma o de los canales de atención disponibles, la forma en que serán abonados.",
+		"p14": "14. Indemnidad: El Productor, se compromete a indemnizar y mantener indemne a Tech Demeter y/o Payagtk, las sociedades vinculadas, sus directivos, empleados y representantes, de y contra cualquier cargo, incluyendo pero no limitándose a cualquier acción ya sea judicial y/o extrajudicial, que resulten del uso que los mismos hagan del Sitio Web, o bien de la infracción por su parte de estos Términos y Condiciones, debiendo hacerse cargo el Productorde los gastos legales o de cualquier otra naturaleza en los que Tech Demeter, Payagtk, las sociedades vinculadas, sus directivos, empleados y representantes, de y contra cualquier cargo pudieran incurrir. A tal fin, se le notificará puntualmente de cualquier demanda, y/o acción y/o proceso.",
+		"p15": "15. Ley aplicable y jurisdicción: En caso de controversia, las diferencias serán sometidas a los tribunales competentes de la Ciudad Autónoma de Buenos Aires. El presente se regirá por la ley argentina.",
+		"p16": "16. Adhesión a los términos y condiciones generales: La aceptación de estos Términos y Condiciones implican la adhesión y aceptación de los Términos y Condiciones Generales del Sitio Web.",
+		"footer": "Estos Términos y Condiciones Particulares de Tarjeta  fueron actualizados por última vez el 05 de Septiembre de 2022."
+	},
+	"privacyPolicy": {
+		"title": "Política de Privacidad",
+		"intro": "Esta página contiene la Políticas de Privacidad respecto del sitio web www.agrotoken.io en adelante, el “Sitio Web ”), de propiedad de Tech Demeter S.A., CUIT 30716988550, con domicilio en Migueletes 1231 2do piso dto A (en adelante, “Tech Demeter ”). En adelante, el término “Usuario ” será utilizado para hacer referencia a todas las personas humanas y/o jurídicas que utilicen el Sitio Web, contraten o no los servicios ofrecidos en el mismo. Todos los términos en mayúsculas que no tengan una definición específica tendrán el significado que se les asigna en los Términos y Condiciones del Sitio Web.",
+		"ourCommitment": {
+			"title": "1. NUESTRO COMPROMISO CON LA PRIVACIDAD",
+			"content": "Tech Demeter, sus empresas controladas, controlantes y vinculadas, respetan la privacidad de toda persona que visite el Sitio Web. Esta Política de Privacidad indica la información que Tech Demeter puede recopilar y el uso que puede dar a esa información. También explica las medidas de seguridad tomadas para proteger su información, su posibilidad de acceder a su información, y a quién podrá contactar en Tech Demeter para que sus preguntas en relación con esta Política de Privacidad sean contestadas."
+		},
+		"dataGathering": {
+			"title": "2. RECOPILACIÓN Y UTILIZACIÓN DE SU INFORMACIÓN",
+			"content": {
+				"p1": "2.1. Esta Política de Privacidad contempla la recopilación y uso de información personal en el Sitio Web.",
+				"p2": "2.2. Tech Demeter no recopilará a través del Sitio Web ninguna información sobre el Usuario que pueda identificarlo personalmente, como, por ejemplo, nombre, dirección, número de teléfono o dirección de correo electrónico (en adelante, la “ Información Personal ”), a menos que el Usuario nos la brinde en forma voluntaria. Si el Usuario no desea que recopilemos su Información Personal, deberá abstenerse de proporcionarla. Sin embargo, deberá tener en cuenta que en caso de no proporcionarnos su Información Personal, el Usuario no podrá acceder a los Servicios e información disponibles a través del Sitio Web.",
+				"p3": "2.3. En caso de que el Usuario nos brinde Información Personal, le comunicamos que esa Información Personal será objeto de tratamiento automatizado e incorporada a la base de datos de Tech Demeter.",
+				"p4": "2.4. Tech Demeter en ningún momento recopilará información sensible sobre el Usuario."
+			}
+		},
+		"personalInfo": {
+			"title": "3. INFORMACIÓN PERSONAL",
+			"content": {
+				"p1": "3.1. Tech Demeter recopila Información Personal en línea cuando, entre otros casos: (i) el Usuario se registra para hacer uso de alguno de los Servicios disponibles del Sitio Web; (ii) el Usuario utiliza el Sitio Web; (iii) el Usuario nos envía preguntas, consultas o comentarios o se contacta con el Sitio Web; (iv) el Usuario solicita información o materiales; y (v) el Usuario provee de cualquier forma información al Sitio Web (chats, foros, uploads, etc.).",
+				"p2": "3.2. El tipo de información recopilada puede incluir nombre, tipo y número de documento, teléfono, dirección de correo electrónico y/o cualquier otra información que permita individualizar al El Usuario. En todos los casos que el Usuario brinde Información Personal, y de acuerdo a la legislación vigente, el Usuario declara que la Información Personal brindada es correcta, cierta y actual.",
+				"p3": "3.3. En los casos que nos brinde su Información Personal, el Usuario acepta y presta su consentimiento libre, expreso e informado para que dicha Información Personal sea utilizada con las finalidades arriba mencionadas y autoriza a que la misma sea tratada, almacenada, recopilada en las bases de datos de propiedad de Tech Demeter. En tal sentido, el Usuario autoriza a que su Información Personal sea compartida con los clientes de Tech Demeter. Asimismo, el Usuario acepta y presta su consentimiento libre, expreso e informado con los términos de la presente Política de Privacidad."
+			}
+		},
+		"email": {
+			"title": "4. CORREO ELECTRÓNICO",
+			"content": {
+				"p1": "4.1. Tech Demeter podrá enviar al El Usuario correos electrónicos en relación con el contenido del Sitio Web, los servicios prestados por Tech Demeter o sobre su Cuenta y en respuesta a sus preguntas, pedidos, consultas o comentarios. Tech Demeter también le podrá enviar correos electrónicos con información sobre productos y servicios ofrecidos por Tech Demeter y/o terceros asociados comercialmente que le puedan resultar de interés, a menos que el Usuario indique expresamente que no desea recibir dichos correos electrónicos a través de los procesos implementados por Tech Demeter a tal efecto.",
+				"p2": "4.2. El Usuario podrá solicitar en cualquier momento el retiro o bloqueo de su nombre de la base de datos a la que se refiere la presente Política de Privacidad siguiendo el procedimiento señalado en esta misma política.",
+				"p3": "4.3 Todo correo electrónico que el Usuario reciba de Tech Demeter le informará cómo rechazar el envío de futuros correos electrónicos promocionales. Asimismo, el Usuario podrá cambiar sus preferencias de recepción de correos electrónicos publicitarios a través de la configuración de su cuenta en el propio Sitio Web en cualquier momento."
+			}
+		},
+		"cookies": {
+			"title": "5. OTRA INFORMACIÓN - COOKIES",
+			"content": {
+				"p1": "5.1. Cuando el Usuario ingresa en el Sitio Web podemos almacenar alguna información en su computadora bajo la forma de “Cookie” o archivo similar que puede sernos útil de varias formas. Con la mayoría de los exploradores para Internet, el Usuario puede borrar las Cookies del disco rígido de su computadora, bloquear todas las Cookies o recibir un mensaje de alerta antes de que se almacene una Cookie. Por favor, consulte las instrucciones de su explorador para conocer más sobre estas funciones.",
+				"p2": "5.2. Información adicional sobre Cookies y tecnologías similares puede ser obtenida en la sección especial del Sitio Web."
+			}
+		},
+		"sharing": {
+			"title": "6. COMPARTIENDO SU INFORMACIÓN",
+			"content": {
+				"p1": "6.1. La Información Personal que el Usuario suministre será reputada y tratada como confidencial. Sin perjuicio de lo expuesto, Tech Demeter podrá compartir total o parcialmente la Información Personal suministrada por el Usuario, incluyendo registros de comportamiento y actividad en el Sitio Web, contactos a terceros que anuncien u ofrezcan productos o servicios en el Sitio Web."
+			}
+		},
+		"protectingYourInfo": {
+			"title": "7. PROTEGIENDO SU INFORMACIÓN PERSONAL",
+			"content": {
+				"p1": "7.1. Para prevenir acceso no autorizado, mantener la precisión de los datos y asegurar el uso correcto de su Información Personal, Tech Demeter ha puesto en uso ciertos medios físicos, electrónicos, administrativos y procedimientos de seguridad para resguardar y asegurar la Información Personal que recopilamos en línea. Nosotros resguardamos la Información Personal de acuerdo a estándares y procedimientos de seguridad establecidos y continuamente evaluamos nueva tecnología para proteger esa información. Tech Demeter garantiza que los procesos internos propios de las bases de datos cumplen con las obligaciones legales de seguridad y confidencialidad impuestas por las leyes de cada país en materia de privacidad y protección de datos personales.",
+				"p2": "7.2. A pesar de lo anterior, el Usuario reconoce que los medios técnicos existentes que brindan seguridad no son inexpugnables y que aun cuando se adopten todos los recaudos razonables de seguridad es posible sufrir manipulaciones, destrucción y/o pérdida de información. De presentarse estos casos, Tech Demeter procederá conforme las leyes de cada país en materia de privacidad y protección de datos lo requieran.",
+				"p3": "7.3. Los empleados de Tech Demeter son entrenados para comprender y cumplir con estos principios en materia de protección de datos personales y seguridad de la información. Asimismo, los empleados de Tech Demeter asumen estrictos compromisos de confidencialidad en cuanto a la Información Personal que procesan en el ejercicio de sus funciones.",
+				"p4": "7.4. El Usuario consiente, reconoce y acepta que su información personal sea almacenada en la jurisdicción de Tech Demeter o que la misma pueda ser transferida, almacenada y tratada fuera de la República Argentina. La Información Personal recabada a través del Sitio Web sólo podrá ser transferida a nuestras filiales, entidades asociadas y proveedores de servicios en otros países para los fines anteriormente descritos. Dichos países pueden no tener la misma normativa de protección de datos que la que existe en Argentina. Cuando transfiramos su Información Personal a otros países, la protegeremos en la forma descrita en este documento y de acuerdo con la Ley de Protección de Datos Personales y su marco regulatorio."
+			}
+		},
+		"ageRestrictions": {
+			"title": "8. MENORES DE EDAD",
+			"content": {
+				"p1": "8.1. Tech Demeter no tiene intenciones de recopilar Información Personal de menores de edad. Cuando corresponda, Tech Demeter le indicará específicamente a los menores que no brinden esa información Personal en nuestro Sitio Web y/o tomará medidas razonables para obtener el consentimiento de los padres, tutor o representante legal para la entrega de esa Información Personal.",
+				"p2": "8.2 Se informa al Usuario que en su condición de padre, tutor legal o representante será el responsable de que sus hijos menores o bajo su tutela accedan al Sitio Web, por lo que recomendamos enfáticamente tomar las precauciones oportunas durante la navegación en el Sitio Web. A este fin, informamos al Usuario que algunos navegadores permiten configurarse para que los niños no puedan acceder a páginas determinadas."
+			}
+		},
+		"externalLinks": {
+			"title": "9. LINKS EXTERNOS",
+			"content": {
+				"p1": "9.1. El Sitio Web puede contener links hacia y provenientes de otros sitios de Internet. Tech Demeter no es responsable por las prácticas de privacidad ni el tratamiento de los datos personales de esos sitios. Tech Demeter recomienda que consulten las prácticas de privacidad de dichos sitios de Internet antes de su utilización."
+			}
+		},
+		"userRights": {
+			"title": "10. DERECHOS DEL USUARIO",
+			"content": {
+				"p1": "10.1. Si el Usuario ha proporcionado Información Personal a través de los Servicios disponibles en el Sitio Web, el Usuario podrá acceder a la misma, revisar, modificar, eliminar y actualizar su Información Personal en el momento que lo desee.",
+				"p2": "10.2 Si el Usuario desea acceder a su Información Personal o si tal Información Personal es incorrecta, desactualizada y/o suprimida, deberá enviar su solicitad por correo electrónico de acuerdo con las normas implementadas en su país tal como se detalla en la cláusula 12 con el asunto “Informar”, “Rectificar”, “Suprimir” y/o “Actualizar” y/o cualquier otro según corresponda, conjuntamente con el objeto de su requerimiento. Dicha solicitud deberá contener como mínimo la siguiente información: (i) nombre y domicilio del Usuario, a efecto de dar respuesta a su solicitud en los plazos establecidos en la ley aplicable; (ii) copia del documento de identidad, pasaporte o cualquier otro documento del Usuario que acredite su identidad o acredite la personalidad de su representante legal, y en caso que la solicitud se realice a través del representante legal, acompañar el documento que acredita sus facultades como representante; (iii) descripción clara y precisa de los datos personales sobre los que se busca ejercer alguno de los derechos antes mencionados de acceso, rectificación, oposición, cancelación o revocación, así como la descripción clara y precisa de su solicitud; (iv) fecha y firma del Usuario o su representante legal; y (v) cualquier otro elemento o documento que facilite la localización de dichos datos personales.",
+				"p3": "10.3. Asimismo, si el Usuario se suscribe a alguno de los servicios o comunicaciones que ofrece Tech Demeter podrá dar de baja su suscripción en cualquier momento siguiendo las instrucciones incluidas en cada comunicación.",
+				"p4": "10.4. Tech Demeter cooperará con las autoridades de cada país cuando éstas requieran formalmente cualquier información relacionada con nuestras bases de datos."
+			}
+		},
+		"policyUpdates": {
+			"title": "11. CAMBIOS A ESTE AVISO DE PRIVACIDAD",
+			"content": {
+				"p1": "11.1. Tech Demeter se reserva el derecho a modificar esta Política de Privacidad periódicamente, en cuyo caso la política actualizada se publicará en este mismo sitio, siendo obligación del Usuario revisar regularmente esta sección a fin de informarse de cualquier cambio que se pueda haber producido. De todos modos, Tech Demeter cursará una comunicación a la cuenta de correo electrónico registrada a efectos de informarle sobre el cambio en la Política de Privacidad."
+			}
+		},
+		"location": {
+			"title": "12. LOCALIZACIÓN PARA EL USUARIO EN ARGENTINA",
+			"content": {
+				"p1": "12.1. Tech Demeter significa Tech Demeter S.A., con domicilio en [*], Ciudad Autónoma de Buenos Aires. El Sitio Web es www.agrotoken.io . La presente Política de Privacidad se rige por las leyes de la República Argentina.",
+				"p2": "12.2. El derecho de acceso a los datos podrá ser ejercido en forma gratuita por el Usuario en la medida que la correspondiente información sea solicitada en intervalos no inferiores a seis meses, salvo que se acredite un interés legítimo al efecto.",
+				"p3": "12.3. El contacto para ejercer los derechos de acceso, rectificación, actualización y supresión de la Información Personal es: [*].",
+				"p4": "12.4. La Información Personal recabada a través del Sitio Web puede ser transferida para los fines anteriormente descritos a nuestras filiales, entidades asociadas y proveedores de servicios, en otros países. Dichos países pueden no tener la misma normativa de protección de datos que la que existe en Argentina. Cuando transfiramos Información Personal del Usuario a otros países, la protegeremos en la forma descrita en este documento.",
+				"p5": "12.5. De conformidad con la Ley 25.326 y la Disposición 11/06 de la Agencia de Acceso a la Información Pública (ex Dirección Nacional de Protección de Datos Personales) hemos implementado salvaguardas que garantizan un nivel adecuado de protección de la Información Personal que se transfiere fuera de sus fronteras.",
+				"p6": "12.6. Se hace saber que la Agencia de Acceso a la Información Pública, Órgano de Control de la Ley Nº 25.326, tiene la atribución de atender las denuncias y reclamos que se interpongan con relación al incumplimiento de las normas sobre protección de datos personales."
+			}
+		},
+		"contact": {
+			"title": "13. CONTACTO",
+			"content": {
+				"p1": "Si tiene preguntas sobre su privacidad cuando utilice el Sitio Web, por favor contáctenos a los siguientes correos electrónicos de acuerdo con su país: [*]"
+			}
+		}
+	},
+	"cookiesPolicy": {
+		"title": "Uso de Cookies y tecnologías similares",
+		"intro": "Esta página contiene el uso de cookies y tecnologías similares respecto del sitio web www.agrotoken.io   (en adelante, el “Sitio Web”). El Sitio Web es de propiedad de Tech Demeter S.A., CUIT 30716988550, con domicilio en Migueletes 1231 2do piso dto A (en adelante, “Tech Demeter”). En adelante, el término “Usuario ” será utilizado para hacer referencia a todas las personas humanas y/o jurídicas que utilicen el Sitio Web, contraten o no los servicios ofrecidos en el mismo.",
+		"content": "El Usuario conoce y acepta que Tech Demeter puede utilizar sistemas y/o servicios de seguimiento y/o tecnologías similares o que cumplan con una función similar, tales como los que se enumeran a continuación en forma no taxativa: (i) Cookies : son pequeños archivos que se instalan en el sitio de almacenamiento de la computadora o dispositivo utilizado por el usuario y/o visitante del Sitio Web, con una duración limitada en el tiempo que ayudan a personalizar los servicios. Además, Tech Demeter puede ofrecer ciertas funcionalidades que sólo estén disponibles mediante el empleo de cookies. Las cookies se utilizan con el fin de conocer los intereses, el comportamiento y la demografía de quienes visitan o utilizan el sitio web y de esa forma, comprender mejor sus necesidades e intereses y brindar un mejor servicio o proveer información relacionada. Tech Demeter también puede utilizar la información obtenida por intermedio de las cookies para analizar las páginas navegadas por el usuario y/o visitante del Sitio Web, así como sus búsquedas realizadas, para mejorar y/o personalizar iniciativas comerciales y promocionales, realizar noticias, publicidad o promociones, banners de interés y perfeccionar su oferta de contenidos; también podrá utilizar cookies para contabilizar y corroborar los registros y niveles de validación, así como para promover y hacer cumplir las reglas y seguridad del Sitio Web. Tech Demeter también puede agregar cookies en sus emails para medir la efectividad de sus promociones y campañas publicitarias. Se establece que la instalación, permanencia y existencia de las cookies en la computadora o dispositivo del usuario y/o visitante del Sitio Web depende de su exclusiva voluntad y puede ser eliminada de su computadora o dispositivo cuando él así lo desee. Para saber cómo quitar las cookies del sistema, es necesario revisar la configuración de su navegador. (ii) Registro de direcciones de protocolo de internet : Tech Demeter utiliza un sistema de registro de direcciones de protocolo de internet que permite conocer la ubicación del Usuario del Sitio Web para brindar un mejor servicio y proveer información relacionada a la misma, así como mejorar y/o personalizar iniciativas comerciales y promocionales, realizar noticias, publicidad o promociones, banners de interés, perfeccionar su oferta de contenidos y artículos y, por otro lado, para promover y hacer cumplir las reglas y seguridad del Sitio Web. Al acceder al Sitio Web, el Usuario del Sitio Web conoce y acepta que se utilice dicho sistema. (iii) Single pixel : es una imagen electrónica (también llamada pixel transparente) colocada en el código de una página web con finalidades similares a las cookies. Adicionalmente, un single pixel es usado para medir patrones de tráfico del Usuario del Sitio Web a otro con el objeto de maximizar el flujo de tráfico a través de la web. El Usuario conoce y acepta que Tech Demeter pueda usar un sistema de seguimiento mediante la utilización de single pixels. (iv) Sistema de seguimiento del puntero : para analizar y mejorar la usabilidad del Sitio Web, Tech Demeter también puede utilizar sistemas o servicios de seguimiento del recorrido del puntero del mouse así como otros sistemas y/o servicios de seguimiento del usuario en su sitio. El Usuario conoce y acepta que Tech Demeter pueda usar este sistema de seguimiento del puntero del mouse así como otros sistemas de trackeo similares. Toda la información solicitada y/o recabada por estos medios de seguimiento / trackeo será tratada con estricta confidencialidad y solo podrá ser revelada ante una expresa solicitud de una entidad judicial competente."
+	},
+	"qatar": {
+		"banner": "Descubrí lo cool de pagar con la tarjeta Agrotoken y poder viajar {br} a la Copa Mundial de la FIFA Catar 2022™, gracias a Visa",
+		"bannerButton" : "Conocé más",
+		"titleF": "Con Visa ser ",
+		"titleS": "tor {br} es una jugada con vuelo",
+		"desc": "Descubrí lo cool de pagar con tu tarjeta Agrotoken y poder viajar a la Copa Mundial de la FIFA Catar 2022™, gracias a Visa.",
+		"button": "¡Quiero participar!",
+		"fSpan": "¿Qué incluye el sorteo?",
+		"fTitle": "¡Preparate para vivir la Copa Mundial de la FIFA Catar 2022™ al máximo!",
+		"fDesc": "El premio es para vos y un acompañante.",
+		"fWhen": "¿Cuándo se sortea?",
+		"fWhenTitle": "El sorteo es el 12 de octubre de 2022",
+		"fLink": "Ver bases y condiciones",
+		"fItem1Title": "Hotel 5 estrellas",
+		"fItem1Desc": "Disfruta de 4 noches en uno de los mejores hoteles de Catar",
+		"fItem2Title": "2 partidos",
+		"fItem2Desc": "Incluye 2 partidos de la Copa Mundial de la FIFA Catar 2022™ para dos personas.",
+		"fItem3Title": "Vuelos y traslados",
+		"fItem3Desc": "Gracias a VISA, tenés incluidos los vuelos y los traslados.",
+		"buttonProduct": "Conocé más",
+		"1secName": "¿Cómo participar y sumar chances?",
+		"1secTitle": "Registrate, solicitá tu tarjeta y sumá tu primera chance",
+		"1secItem1": "Para participar del sorteo por un viaje a FIFA Catar 2022™ tenés que ser productor y estar habilitado para tokenizar.",
+		"1secItem2": "Una vez que hayas completado con el registro, solicitá tu tarjeta Visa Agrotoken y listo, ya estás participando.",
+		"1secButton": "Registrate acá",
+		"1secSBefore": "¿Ya estás registrado?",
+		"1secSLink": "Ingresá a tu cuenta",
+		"1secSAfter": "y solicitá la tarjeta",
+		"2secName": "Tokenizá y sumas 2 chances",
+		"2secTitle": "Tokenizá soja, trigo o maíz y sumás más chances para ver a la Scaloneta",
+		"2secDesc": "Cualquier tokenización realizada entre el 5 de septiembre y 11 de octubre suma 2 chances una única vez.",
+		"2sec2Name": "Comprá con tu tarjeta virtual y sumás 5 chances",
+		"2sec2Title": "¡Cualquier compra con tu tarjeta virtual te acerca más a Catar!",
+		"2sec2Desc": "Por cada compra que realices hasta el 11 de octubre con tu tarjeta Visa Agrotoken sumás 5 chances para el sorteo.",
+		"3secTitle": "¿Ya sos cliente de Agrotoken?",
+		"3secItem1": "Para sumar tu primera chance lo único que tenés que hacer es ingresar y solicitar tu tarjeta Visa Agrotoken.",
+		"3secItem2": "¡Recordá también que si tokenizás entre el 5 de septiembre y el 11 de octubre sumás 2 chances más!",
+		"3secButton": "Ingresá y solicitá tu tarjeta",
+		"modalTitle": "¡Muchas gracias por anotarte! ",
+		"modalMessage": "Nos vamos a estar comunicando con vos en la brevedad.",
+		"modalTitleInputs": "Quiero participar",
+		"modalDescInputs": "Para participar tenes que ser productor de soja, maíz o trigo.",
+		"modalDescInputsNoCui": "La promoción es valida solo para productores. Si no sos productor completá el siguiente formulario y nos contactaremos con vos.",
+		"cuitLabel": "Cuit Productor",
+		"cuitPlaceHolder": "445123123",
+		"sisa": "Verificaremos tu Cuit en SISA",
+		"acopLabel": "¿Trabajás con otro acopio?",
+		"acopPlaceHolder": "Ingresá Acopio",
+		"thanksMessage": "Nos vamos a estar comunicando con vos en la brevedad."
+	}
+}

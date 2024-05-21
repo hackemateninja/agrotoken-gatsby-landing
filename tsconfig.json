@@ -1,0 +1,38 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@comp/*": ["src/components/*"],
+			"@config/*": ["src/config/*"],
+			"@data/*": ["src/data/*"],
+			"@hooks/*": ["src/hooks/*"],
+			"@layouts/*": ["src/layouts/*"],
+			"@libs/*": ["src/libs/*"],
+			"@pages/*": ["src/pages/*"],
+			"@services/*": ["src/services/*"],
+			"@store/*": ["src/store/*"],
+			"@test/*": ["src/test/*"],
+			"@def/*": ["src/types/*"],
+			"@utils/*": ["src/utils/*"],
+			"@mock/*": ["src/test/__mocks__/*"],
+			"@svg/*": ["src/components/svgs/*"],
+			"@src/*": ["src/*"]
+		},
+		"target": "es5",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"noEmit": true,
+		"jsx": "react-jsx"
+	},
+	"include": ["src", "src/components", "custom.d.ts"]
+}
